@@ -1,0 +1,4965 @@
+[
+	{
+		"group": "Jazz",
+		"stations": [
+			{
+				"name": "Smooth Jazz",
+				"url": "http://smoothjazz.com/streams/smoothjazz_128.pls"
+			},
+			{
+				"name": "Sonic Universe",
+				"url": "http://somafm.com/sonicuniverse.pls"
+			}
+		]
+	},
+	{
+		"group": "Latin",
+		"stations": [
+			{
+				"name": "Top Latino Radio",
+				"url": "http://online.radiodifusion.net:8020/listen.pls"
+			},
+			{
+				"name": "Reggaeton 24/7",
+				"url": "http://cc.net2streams.com/tunein.php/reggaeton/playlist.pls"
+			}
+		]
+	},
+	{
+		"group": "Classic Rock",
+		"stations": [
+			{
+				"name": "181.FM Classic Hits",
+				"url": "http://www.181.fm/winamp.pls?station=181-greatoldies&file=181-greatoldies.pls"
+			},
+			{
+				"name": ".977 Classic Rock",
+				"url": "http://www.977music.com/tunein/web/classicrock.asx"
+			},
+			{
+				"name": "Covers",
+				"url": "http://somafm.com/covers.pls"
+			}
+		]
+	},
+	{
+		"group": "Classical",
+		"stations": [
+			{
+				"name": "KDFC",
+				"url": "http://provisioning.streamtheworld.com/pls/KDFCFM.pls"
+			},
+			{
+				"name": "Classic FM",
+				"url": "http://media-ice.musicradio.com/ClassicFMMP3.m3u"
+			},
+			{
+				"name": "WCPE",
+				"url": "http://www.ibiblio.org/wcpe/wcpe.pls"
+			},
+			{
+				"name": "CINEMIX",
+				"url": "http://cinemix.us/cine.asx"
+			},
+			{
+				"name": "WQXR",
+				"url": "http://www.wqxr.org/stream/wqxr/mp3.pls"
+			},
+			{
+				"name": "BBC Radio 3",
+				"url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p"
+			}
+		]
+	},
+	{
+		"group": "Pop / Rock",
+		"stations": [
+			{
+				"name": "Radio Paradise",
+				"url": "http://www.radioparadise.com/musiclinks/rp_128.m3u"
+			},
+			{
+				"name": ".977 The Hitz Channel",
+				"url": "http://www.977music.com/tunein/web/hitz.asx"
+			},
+			{
+				"name": "Indie Pop Rocks!",
+				"url": "http://somafm.com/indiepop.pls"
+			},
+			{
+				"name": "PopTron",
+				"url": "http://somafm.com/poptron.pls"
+			}
+		]
+	},
+	{
+		"group": "Oldies",
+		"stations": [
+			{
+				"name": "ABN Antioch OTR",
+				"url": "http://radio.macinmind.com/listen.m3u"
+			},
+			{
+				"name": "AM600 Conyers OTR",
+				"url": "http://www.conyersradio.net/listen.m3u"
+			},
+			{
+				"name": "Rumsey Retro Radio",
+				"url": "https://www.rumseyretro.ca/ewExternalFiles/rumseyretro.pls"
+			},
+			{
+				"name": "WNAR-AM Radio",
+				"url": "http://live.wnar-am.com:8500/listen.pls"
+			}
+		]
+	},
+	{
+		"group": "Chill",
+		"stations": [
+			{
+				"name": "Lounge Radio",
+				"url": "http://www.lounge-radio.com/listen128.m3u"
+			},
+			{
+				"name": "Beat Blender",
+				"url": "http://somafm.com/beatblender.pls"
+			},
+			{
+				"name": "Secret Agent",
+				"url": "http://somafm.com/secretagent.pls"
+			},
+			{
+				"name": "Groove Salad",
+				"url": "http://somafm.com/groovesalad.pls"
+			},
+			{
+				"name": "Illinois Street Lounge",
+				"url": "http://somafm.com/illstreet.pls"
+			}
+		]
+	},
+	{
+		"group": "Country",
+		"stations": [
+			{
+				"name": "Boot Liquor",
+				"url": "http://somafm.com/bootliquor.pls"
+			},
+			{
+				"name": "Highway 181",
+				"url": "http://www.181.fm/winamp.pls?station=181-highway&file=181-highway.pls"
+			},
+			{
+				"name": "Country 108",
+				"url": "http://www.country108.com/listen.pls"
+			},
+			{
+				"name": "WAMU Bluegrass Country",
+				"url": "http://ice24.securenetsystems.net/WAMU2"
+			}
+		]
+	},
+	{
+		"group": "Techno / Electronic",
+		"stations": [
+			{
+				"name": "Drone Zone",
+				"url": "http://somafm.com/dronezone.pls"
+			},
+			{
+				"name": "Space Station Soma",
+				"url": "http://somafm.com/spacestation.pls"
+			},
+			{
+				"name": "cliqhop idm",
+				"url": "http://somafm.com/cliqhop.pls"
+			},
+			{
+				"name": "Black Rock FM",
+				"url": "http://somafm.com/brfm.pls"
+			},
+			{
+				"name": "New Dance Radio",
+				"url": "http://jbstream.net/tunein.php/blackoutworm/playlist.asx"
+			},
+			{
+				"name": "DubStep Beyond",
+				"url": "http://somafm.com/play/dubstep32"
+			}
+		]
+	},
+	{
+		"group": "Community",
+		"stations": [
+			{
+				"name": "Jupiter Broadcasting",
+				"url": "http://jblive.stream/"
+			}
+		]
+	},
+	{
+		"group": "root",
+		"stations": []
+	},
+	{
+		"group": "Turkish",
+		"stations": [
+			{
+				"name": "90'lar",
+				"url": "http://37.247.98.8/stream/166/"
+			},
+			{
+				"name": "Alem FM",
+				"url": "https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8"
+			},
+			{
+				"name": "Arabesk Damar FM",
+				"url": "https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio"
+			},
+			{
+				"name": "Doksanlar",
+				"url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8"
+			},
+			{
+				"name": "Efsane Dortlu",
+				"url": "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8"
+			},
+			{
+				"name": "Giresun FM",
+				"url": "https://radio-streaming.net/turkey/giresun-102-5-fm-dinle/playlist.m3u8"
+			},
+			{
+				"name": "Hamsi FM",
+				"url": "http://yayin.liderhost.net:8028/;"
+			},
+			{
+				"name": "Kackar FM",
+				"url": "https://ssl120.radyotelekom.com.tr/8678/stream"
+			},
+			{
+				"name": "Karadeniz",
+				"url": "https://wowza1.radyotvonline.com/unitedmedia/karadenizfm.stream/playlist.m3u8"
+			},
+			{
+				"name": "Karadeniz TURK",
+				"url": "http://radyo.yayin.com.tr:6134/;"
+			},
+			{
+				"name": "90'LAR",
+				"url": "http://37.247.98.8/stream/166/"
+			},
+			{
+				"name": "90'LAR",
+				"url": "https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8"
+			},
+			{
+				"name": "103.6 Radyo Light",
+				"url": "https://yayin.radiolight.net:8005/live"
+			},
+			{
+				"name": "112 ACiL FM",
+				"url": "http://95.173.185.128:9316/;"
+			},
+			{
+				"name": "A HABER RADYO",
+				"url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8"
+			},
+			{
+				"name": "A NEWS RADYO",
+				"url": "https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8"
+			},
+			{
+				"name": "A PARA RADYO",
+				"url": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8"
+			},
+			{
+				"name": "A SPOR RADYO",
+				"url": "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8"
+			},
+			{
+				"name": "ABUZER FM",
+				"url": "http://live.radyotvonline.com:9030/;"
+			},
+			{
+				"name": "ACIPAYAM GURBETCI FM",
+				"url": "http://live2.radyotvonline.com:8750"
+			},
+			{
+				"name": "ACIPAYAM GURBETCI FM",
+				"url": "https://wowza1.radyotvonline.com/shoutcast/gurbetcifm.stream/playlist.m3u8"
+			},
+			{
+				"name": "ACIK RADYO",
+				"url": "https://stream.34bit.net/ar.opus"
+			},
+			{
+				"name": "ADA FM Sakarya",
+				"url": "http://adafm.net:6262/;"
+			},
+			{
+				"name": "ADANA FM Arabesk",
+				"url": "https://host.onlineradyotv.net/8004/stream"
+			},
+			{
+				"name": "ADANA LIDER FM",
+				"url": "http://yayin1.yayindakiler.com:3046/;"
+			},
+			{
+				"name": "ADANA RADYO SEYHAN",
+				"url": "https://radyo.yayindakiler.com/stream/adanaseyhan/stream"
+			},
+			{
+				"name": "ADANA SUPER FM",
+				"url": "http://yayin2.yayindakiler.com:4002/;"
+			},
+			{
+				"name": "ADIYAMAN ASR FM",
+				"url": "http://yayin2.yayindakiler.com:4072/;"
+			},
+			{
+				"name": "ADIYAMAN GUNEY RADYO",
+				"url": "http://sunucu2.radyolarburada.com:9920/;"
+			},
+			{
+				"name": "ADIYAMAN MERT FM",
+				"url": "http://yayin2.yayindakiler.com:4004"
+			},
+			{
+				"name": "AFSIN FM",
+				"url": "https://radyo.arkacadde.org/radio/4646/afsinradyo.mp3"
+			},
+			{
+				"name": "AFYON ARMONI FM",
+				"url": "http://yayin.yayindakiler.com:4084/;stream.mp3"
+			},
+			{
+				"name": "AFYON ARMONI FM",
+				"url": "https://vofile.ru/turkey/armoni_fm/icecast.audio"
+			},
+			{
+				"name": "AFYON RADYO 03",
+				"url": "http://sunucu.radyodinle.com:1303/;"
+			},
+			{
+				"name": "AFYON RADYO 03",
+				"url": "https://reshun.ru/turkey/radyo-03-afyon/icecast.audio"
+			},
+			{
+				"name": "AFYON RADYO LOJIK",
+				"url": "http://94.102.2.199:9710/;stream.nsv"
+			},
+			{
+				"name": "AFYON RADYO LOJIK",
+				"url": "https://vofile.ru/turkey/radyo_lojik/icecast.audio"
+			},
+			{
+				"name": "AHISKA FM",
+				"url": "http://radyo.ahiska.net:8063/;stream.nsv"
+			},
+			{
+				"name": "AKDAG FM",
+				"url": "http://radyovetv.com:7051/;stream.mp3"
+			},
+			{
+				"name": "AKDENIZ FM",
+				"url": "https://radio-streaming.net/turkey/akdeniz-fm-89-2/icecast.audio"
+			},
+			{
+				"name": "AKHISAR METRONOM FM",
+				"url": "http://77.245.159.181:9360/;"
+			},
+			{
+				"name": "AKRA FM",
+				"url": "https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8"
+			},
+			{
+				"name": "AKSARAY FM",
+				"url": "http://yayin.yayindakiler.com:4010/;stream.mp3"
+			},
+			{
+				"name": "AKSARAY FM",
+				"url": "https://vofile.ru/turkey/aksaray_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "AKSARAY KRAL FM",
+				"url": "http://yayin.yayindakiler.com:4020/;stream.mp3"
+			},
+			{
+				"name": "AKSEHIR MEGA RADYO",
+				"url": "http://yayin1.canliyayin.org:7078/;stream.mp3"
+			},
+			{
+				"name": "AKSEHIR DOGAN FM",
+				"url": "http://yayin.turkhosted.com:6046/;stream.mp3"
+			},
+			{
+				"name": "AKUSTIKLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8"
+			},
+			{
+				"name": "ALANYA FM",
+				"url": "https://alanyafm.80.yayin.com.tr/;"
+			},
+			{
+				"name": "ALEM FM",
+				"url": "http://37.247.100.104/stream/552/"
+			},
+			{
+				"name": "ALEM FM",
+				"url": "https://turkmedya.radyotvonline.net/alemfmaac"
+			},
+			{
+				"name": "ALEM FM",
+				"url": "https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8"
+			},
+			{
+				"name": "ALIAGA AKTIF FM",
+				"url": "http://85.95.241.151:9170/;"
+			},
+			{
+				"name": "ALIAGA AKTIF FM",
+				"url": "http://85.95.241.151:9170/aktiffm"
+			},
+			{
+				"name": "ALIAGA AKTIF FM",
+				"url": "http://yayin.aktiffm.com.tr:9170/;"
+			},
+			{
+				"name": "ALIAGA AKTIF FM",
+				"url": "http://yayin.aktiffm.com.tr:9170/aktiffm"
+			},
+			{
+				"name": "ALPARSLAN FM",
+				"url": "https://ssl123.ozelip.com:7010/;"
+			},
+			{
+				"name": "ALPARSLAN FM",
+				"url": "https://ssl123.ozelip.com/8022/;"
+			},
+			{
+				"name": "ALTIN SARKILAR",
+				"url": "http://37.247.98.8/stream/25/"
+			},
+			{
+				"name": "ALTIN SARKILAR",
+				"url": "https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8"
+			},
+			{
+				"name": "AMASYA FM",
+				"url": "https://sp.radyotescil.com/8030/stream"
+			},
+			{
+				"name": "ANKARA HAVALARI",
+				"url": "http://37.247.98.8/stream/30/"
+			},
+			{
+				"name": "ANKARA HAVALARI",
+				"url": "https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8"
+			},
+			{
+				"name": "ANKARA UNIVERSITESI",
+				"url": "http://radyo.cc.ankara.edu.tr:8089/;stream/1"
+			},
+			{
+				"name": "ANTAKYA RADYO RENK",
+				"url": "http://yayin1.yayindakiler.com:3016/renk"
+			},
+			{
+				"name": "ANTAKYA RADYO RENK",
+				"url": "https://reshun.ru/turkey/radyo-renk-fm-antakya/icecast.audio"
+			},
+			{
+				"name": "ANTALYA RADYO AKDENIZ",
+				"url": "http://95.173.162.188:9310/;"
+			},
+			{
+				"name": "ANTALYA RADYO AKDENIZ",
+				"url": "https://vofile.ru/turkey/radyo_akdeniz_antalya/icecast.audio"
+			},
+			{
+				"name": "ARABESK DAMAR",
+				"url": "FM http://95.173.188.170:9306/;"
+			},
+			{
+				"name": "ARABESK DAMAR FM",
+				"url": "https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio"
+			},
+			{
+				"name": "ARABESK FM",
+				"url": "http://37.59.205.232:6688/;stream.mp3"
+			},
+			{
+				"name": "ARABESK FM",
+				"url": "http://anadolu.liderhost.com.tr:6688/;"
+			},
+			{
+				"name": "ARABESK FM",
+				"url": "https://anadolu.liderhost.com.tr:10949/;"
+			},
+			{
+				"name": "ARABESK MELODI FM",
+				"url": "http://arabeskmelodi.kesintisizyayin.com:8888/;"
+			},
+			{
+				"name": "ARABESK MELODI FM",
+				"url": "https://ssl224.radyotelekom.com.tr/listen/244cda65afe5c572a14c7bda85af6162"
+			},
+			{
+				"name": "ARABESK RADYO",
+				"url": "https://radyopanel.turkwebdizayn.com/5934/stream"
+			},
+			{
+				"name": "ARABESK RADYO",
+				"url": "http://37.247.101.101:5934/;"
+			},
+			{
+				"name": "ARABESK TURKIYE",
+				"url": "http://159.253.37.137:9814/stream"
+			},
+			{
+				"name": "ARABESK TURKIYE",
+				"url": "https://vofile.ru/turkey/arabesk_turkiye_dinle/icecast.audio"
+			},
+			{
+				"name": "ARABESK TURKIYE",
+				"url": "https://vofile.ru/turkey/arabesk_turkiye_dinle/playlist.m3u8"
+			},
+			{
+				"name": "ARABESK VADISI",
+				"url": "https://sp.radyotescil.com/8010/stream"
+			},
+			{
+				"name": "ARABESKIN SESI FM",
+				"url": "https://sp.radyotescil.com/8042/stream/;stream.mp3"
+			},
+			{
+				"name": "ARABESKLAND",
+				"url": "https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8"
+			},
+			{
+				"name": "ARDAHAN FM",
+				"url": "https://ssl120.radyotelekom.com.tr/8270/;"
+			},
+			{
+				"name": "ARNAVUTKOY FM",
+				"url": "https://arnavut2.80.yayin.com.tr/;"
+			},
+			{
+				"name": "ART FM Amasya",
+				"url": "https://59cba4d34b678.streamlock.net/radyo/artfm/playlist.m3u8"
+			},
+			{
+				"name": "ART FM Antalya",
+				"url": "http://yayin.liderhost.net:9338/;"
+			},
+			{
+				"name": "ASK FM",
+				"url": "http://yayin.asymedya.com:8020/1;"
+			},
+			{
+				"name": "ASK FM",
+				"url": "https://vofile.ru/turkey/Ask_fm/icecast.audio"
+			},
+			{
+				"name": "ASK FM Izmir",
+				"url": "http://AskFm.CO:9300/;"
+			},
+			{
+				"name": "ATLANTIS FM",
+				"url": "http://live4.radyotvonline.com:9400/;"
+			},
+			{
+				"name": "AVRASYA TURK",
+				"url": "https://vofile.ru/turkey/radyo-avrasya-turk/icecast.audio"
+			},
+			{
+				"name": "AYYILDIZ FM",
+				"url": "http://95.173.188.166:9992/;"
+			},
+			{
+				"name": "BABA RADYO",
+				"url": "http://46.20.7.116/babaradyoaac"
+			},
+			{
+				"name": "BABA RADYO",
+				"url": "http://37.247.98.7/babaradyomp3"
+			},
+			{
+				"name": "BABA RADYO",
+				"url": "http://46.20.7.116:80/;stream.mp3"
+			},
+			{
+				"name": "BABA RADYO",
+				"url": "http://37.247.98.7/;stream.mp3"
+			},
+			{
+				"name": "BABA RADYO",
+				"url": "https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8"
+			},
+			{
+				"name": "BABYJOY",
+				"url": "https://17753.live.streamtheworld.com/BABYJOY128AAC.aac"
+			},
+			{
+				"name": "BABYLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8"
+			},
+			{
+				"name": "BAFRA BARIS FM",
+				"url": "http://95.173.184.20:9588/;"
+			},
+			{
+				"name": "BAFRA BARIS FM",
+				"url": "https://vofile.ru/turkey/baris_fm/icecast.audio"
+			},
+			{
+				"name": "BAL 10 FM",
+				"url": "https://anadolu.liderhost.com.tr:10928/;"
+			},
+			{
+				"name": "BANAZ DOST FM",
+				"url": "http://159.253.39.180:9968/;"
+			},
+			{
+				"name": "BANDIRMA GENC FM",
+				"url": "http://yayin1.canliyayin.org:7048/;stream.mp3"
+			},
+			{
+				"name": "BANDIRMA RADYO VENUS",
+				"url": "http://yayin3.canlitv.com:9020/;"
+			},
+			{
+				"name": "BARIS RADYO",
+				"url": "http://yayin2.canliyayin.org:9350/;"
+			},
+			{
+				"name": "BARTIN FM",
+				"url": "http://95.173.162.188:9824/;"
+			},
+			{
+				"name": "BARTIN FM",
+				"url": "https://vofile.ru/turkey/74_bartin_fm/icecast.audio"
+			},
+			{
+				"name": "BASAK FM",
+				"url": "http://www.basakfm.net:9797/;"
+			},
+			{
+				"name": "BASKA",
+				"url": "https://18463.live.streamtheworld.com/BASKA128AAC.aac"
+			},
+			{
+				"name": "BATI RADYO",
+				"url": "https://sslyayin.netyayin.net:10902/;"
+			},
+			{
+				"name": "BAYRAM FM",
+				"url": "https://sslyayin.netyayin.net/3442/stream"
+			},
+			{
+				"name": "BEST FM",
+				"url": "http://46.20.7.126/;stream.mp3"
+			},
+			{
+				"name": "BEST FM",
+				"url": "http://46.20.7.125/bestfmaac"
+			},
+			{
+				"name": "BEST FM",
+				"url": "http://46.20.7.126/bestfmmp3"
+			},
+			{
+				"name": "BEST FM",
+				"url": "https://bestfm.turkhosted.com/;stream.mp3"
+			},
+			{
+				"name": "BEST FM",
+				"url": "https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8"
+			},
+			{
+				"name": "BEST FM",
+				"url": "http://37.247.100.100/best/bestfm.stream/playlist.m3u8"
+			},
+			{
+				"name": "BESTE FM",
+				"url": "https://server22692.streamplus.de/;stream.mp3"
+			},
+			{
+				"name": "BEY FM",
+				"url": "http://45.32.154.169:9304/;stream.mp3"
+			},
+			{
+				"name": "BEYZADE FM",
+				"url": "http://sunucu.radyodinle.com:9900/;"
+			},
+			{
+				"name": "BIGA FM",
+				"url": "http://212.84.160.187:36076/;stream.nsv"
+			},
+			{
+				"name": "BIGA FM",
+				"url": "https://vofile.ru/turkey/biga-fm/icecast.audio"
+			},
+			{
+				"name": "BILECIK FM",
+				"url": "http://bilecikfm.kesintisizyayin.com:9980/;"
+			},
+			{
+				"name": "BILECIK FM",
+				"url": "https://radio-streaming.net/turkey/bilecik-fm/icecast.audio"
+			},
+			{
+				"name": "BILECIK RADYO 11",
+				"url": "http://95.173.161.131:9832/;"
+			},
+			{
+				"name": "BILECIK RADYO 11",
+				"url": "http://ip131.radyotelekom.com:9832/;"
+			},
+			{
+				"name": "BINGOL FM",
+				"url": "http://yayin1.canliyayin.org:8844/;"
+			},
+			{
+				"name": "BINGOL FM",
+				"url": "http://yayin1.canliyayin.org:8844/;"
+			},
+			{
+				"name": "BINGOL RADYO AZELYA",
+				"url": "http://radyoazelya.radyotvyayini.com:9052/;"
+			},
+			{
+				"name": "BIZ FM",
+				"url": "https://bizzfm.radioca.st/stream.mp3"
+			},
+			{
+				"name": "BIZIM RADYO",
+				"url": "http://95.173.188.156:9986/;"
+			},
+			{
+				"name": "BLOOMBERG HT RADYO",
+				"url": "https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8"
+			},
+			{
+				"name": "BODRUM FM",
+				"url": "http://nephelis.com:8000/;"
+			},
+			{
+				"name": "BOGAZLIYAN FM",
+				"url": "http://yayin3.canlitv.com:6080/;"
+			},
+			{
+				"name": "BOLU FM",
+				"url": "http://yayin3.canlitv.com:8090/;"
+			},
+			{
+				"name": "BOLU RADYO YANKI",
+				"url": "http://159.253.39.179:9918/;"
+			},
+			{
+				"name": "BORUSAN KLASIK",
+				"url": "https://18463.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac"
+			},
+			{
+				"name": "BOTAN FM",
+				"url": "http://yayin1.canliyayin.org:8026/;"
+			},
+			{
+				"name": "BRT BAYRAK FM",
+				"url": "http://sc.brtk.net:8000"
+			},
+			{
+				"name": "BRT BAYRAK INT",
+				"url": "http://sc.brtk.net:8004/"
+			},
+			{
+				"name": "BRT BAYRAK KLASIK",
+				"url": "http://sc.brtk.net:8006/"
+			},
+			{
+				"name": "BRT BAYRAK RADYO HABER",
+				"url": "http://sc.brtk.net:8008/"
+			},
+			{
+				"name": "BRT BAYRAK RADYOSU",
+				"url": "http://sc.brtk.net:8002/"
+			},
+			{
+				"name": "BRT BAYRAK TURK MUZIGI",
+				"url": "http://sc.brtk.net:8010/"
+			},
+			{
+				"name": "BUCAK FM",
+				"url": "http://95.173.184.20:9588/;"
+			},
+			{
+				"name": "BURSA 1001 FM",
+				"url": "http://yayin3.canlitv.com:9050/;stream.mp3"
+			},
+			{
+				"name": "BURSA DENIZ FM",
+				"url": "http://yayin2.yayindakiler.com:4152/;"
+			},
+			{
+				"name": "BURSA DOST FM",
+				"url": "https://vofile.ru/turkey/dost_fm_bursa/icecast.audio"
+			},
+			{
+				"name": "BURSA FM",
+				"url": "http://yayin.bursafm.com.tr:1055/;"
+			},
+			{
+				"name": "BURSA KARADENIZ FM",
+				"url": "http://yayin.yayindakiler.com:4074/;stream.mp3"
+			},
+			{
+				"name": "BURSA KARADENIZ FM",
+				"url": "https://vofile.ru/turkey/bursa_karadeniz_fm/icecast.audio"
+			},
+			{
+				"name": "BURSA RADYO 14",
+				"url": "http://yayin3.canlitv.com:7020/;stream.mp3"
+			},
+			{
+				"name": "BURSA RADYO 16",
+				"url": "http://kaanhost.com:9630/;"
+			},
+			{
+				"name": "BURSA RADYO 16",
+				"url": "https://vofile.ru/turkey/radyo_16_dinle/icecast.audio"
+			},
+			{
+				"name": "BURSA RADYO AKTIF",
+				"url": "https://icecast.netmedya.net/radyoaktif"
+			},
+			{
+				"name": "BURSA RADYO BU",
+				"url": "https://radyo.yayindakiler.com/stream/BursaRadyoBU/stream"
+			},
+			{
+				"name": "BURSA RADYO GUNES Inegol",
+				"url": "http://yayin2.canliyayin.org:5024/;"
+			},
+			{
+				"name": "BURSA RADYO GUNES Inegol",
+				"url": "https://vofile.ru/turkey/radyo_gunes_dinle/icecast.audio"
+			},
+			{
+				"name": "BURSA RADYO NIDA",
+				"url": "http://159.253.37.137:9914/;stream/1"
+			},
+			{
+				"name": "BURSA RADYO S",
+				"url": "https://icecast.netmedya.net/radyos"
+			},
+			{
+				"name": "BURSA RADYO SAMPIYON",
+				"url": "http://95.173.188.166:9782/;"
+			},
+			{
+				"name": "BURSA RADYO TURK",
+				"url": "https://radyo.yayindakiler.com/stream/bursaturk/stream"
+			},
+			{
+				"name": "BURSA SUPERBI RADYO",
+				"url": "http://live.arkumedia.com:8004/stream"
+			},
+			{
+				"name": "BURSA ULUDAG FM",
+				"url": "https://icecast.netmedya.net/uludagfm"
+			},
+			{
+				"name": "BURSA ULUDAG FM",
+				"url": "https://reshun.ru/turkey/uludag-fm-bursa/icecast.audio"
+			},
+			{
+				"name": "BURSA ULUDAG FM",
+				"url": "http://sr1.netmedya.org:9170/;"
+			},
+			{
+				"name": "BURSADA BUGUN RADYO",
+				"url": "https://radyo.bursadabugun.com/stream"
+			},
+			{
+				"name": "CAN FM ISTANBUL",
+				"url": "https://canfmgen.80.yayin.com.tr"
+			},
+			{
+				"name": "CAN RADYO Izmir",
+				"url": "http://yayin1.yayindakiler.com:3124/;"
+			},
+			{
+				"name": "CAN RADYO Izmir",
+				"url": "https://vofile.ru/turkey/can_radyo_93_3/icecast.audio"
+			},
+			{
+				"name": "CAN RADYO Kayseri",
+				"url": "http://canradyo.kesintisizyayin.com:3838/;"
+			},
+			{
+				"name": "CANTURK FM",
+				"url": "http://canturkfm.kesintisizyayin.com:9300/;"
+			},
+			{
+				"name": "CANTURK FM",
+				"url": "https://ssl180.ozelip.com/asistan/stream/e7fffc27d21e649499ecaba8ea5b392f"
+			},
+			{
+				"name": "CEM RADYO",
+				"url": "https://yayin2.canliyayin.org:10924/;"
+			},
+			{
+				"name": "CEMRE FM",
+				"url": "http://yayin1.canliyayin.org:8024/;"
+			},
+			{
+				"name": "CEMRE FM",
+				"url": "https://vofile.ru/turkey/cemre_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "CLASSICLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8"
+			},
+			{
+				"name": "CNN TURK RADYO",
+				"url": "https://radyo.duhnet.tv/cnnturk"
+			},
+			{
+				"name": "CNN TURK RADYO",
+				"url": "https://cdn.duhnet.tv/S2/HLS_LIVE/cnnradyo/index.m3u8"
+			},
+			{
+				"name": "CAGLAR FM Malatya",
+				"url": "http://95.9.6.87:8788/;"
+			},
+			{
+				"name": "CAGLAR FM Malatya",
+				"url": "https://vofile.ru/turkey/caglar_fm_malatya_95_3/icecast.audio"
+			},
+			{
+				"name": "CAGRI FM",
+				"url": "http://yayin1.canliyayin.org:8202/;stream.mp3"
+			},
+			{
+				"name": "CAMLICA FM",
+				"url": "http://95.173.185.43:9314/;"
+			},
+			{
+				"name": "CAN FM",
+				"url": "http://sunucu.radyodinle.com:8760/;"
+			},
+			{
+				"name": "CAN FM",
+				"url": "https://radio-streaming.net/turkey/can-radyo-canakkale/playlist.m3u8"
+			},
+			{
+				"name": "CAYCUMA RADYO TEK",
+				"url": "http://radyovetv.com:6008/;stream.mp3"
+			},
+			{
+				"name": "CAYELI FM",
+				"url": "https://radyo1.radyo-dinle.tc:7014/;"
+			},
+			{
+				"name": "CIGLI FM",
+				"url": "https://anadolu.liderhost.com.tr:10887/;"
+			},
+			{
+				"name": "CORLU FM",
+				"url": "https://59cba4d34b678.streamlock.net/radyo/corlufm/playlist.m3u8"
+			},
+			{
+				"name": "CORLU RADYO GUNDEM",
+				"url": "https://icecast.netmedya.net/radyogundem"
+			},
+			{
+				"name": "CORLU TEMPO FM",
+				"url": "https://stream2.rtvtakip.com:7016/;stream.mp3"
+			},
+			{
+				"name": "CORUM FM",
+				"url": "http://stream.taksimbilisim.com:8028/;stream.mp3"
+			},
+			{
+				"name": "DALAMAN SAHIL FM",
+				"url": "http://onlinedinle.com:5252/;"
+			},
+			{
+				"name": "DALAMAN SAHIL FM",
+				"url": "https://radio-streaming.net/turkey/sahil-97-4-fm/playlist.m3u8"
+			},
+			{
+				"name": "DAMAR FM",
+				"url": "https://yayin.damarfm.com/stream"
+			},
+			{
+				"name": "DAMARIN KALBI FM",
+				"url": "https://sp.radyotescil.com/8004/stream"
+			},
+			{
+				"name": "DAMAR TURK FM",
+				"url": "http://185.9.37.59:7966/;"
+			},
+			{
+				"name": "DAMAR TURK FM",
+				"url": "https://ssl123.ozelip.com:7014/;stream.mp3"
+			},
+			{
+				"name": "DAMAR TURK FM",
+				"url": "https://live.radyositesihazir.com:10997/,"
+			},
+			{
+				"name": "DAMLA FM",
+				"url": "http://yayin.rtmp.org:8750/;?1587655600936"
+			},
+			{
+				"name": "DAMLA FM",
+				"url": "https://vofile.ru/turkey/damla_fm/icecast.audio"
+			},
+			{
+				"name": "DANCELAND",
+				"url": "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8"
+			},
+			{
+				"name": "DEGISIM RADYO",
+				"url": "http://yayin1.yayindakiler.com:3120/;"
+			},
+			{
+				"name": "DEM RADYO",
+				"url": "https://yayin.radyodem.com:8000/stream/;stream.mp3"
+			},
+			{
+				"name": "DENIZ FM Kayseri",
+				"url": "http://yayin1.yayindakiler.com:3180/test.aac"
+			},
+			{
+				"name": "DENIZ FM Kayseri",
+				"url": "https://reshun.ru/turkey/deniz-fm-kayseri/icecast.audio"
+			},
+			{
+				"name": "DENIZ FM INTERNET",
+				"url": "http://radyo.hostlan.net:8018/;"
+			},
+			{
+				"name": "DENIZLI BIZIM ILLER RADYO",
+				"url": "http://yayin.yayindakiler.com:4078/;"
+			},
+			{
+				"name": "DENIZLI DOSTLAR FM",
+				"url": "http://95.173.188.166:9848/;"
+			},
+			{
+				"name": "DENIZLI RADYO DEVA Arabesk",
+				"url": "https://radyopanel.turkwebdizayn.com:10994/stream"
+			},
+			{
+				"name": "DENIZLI RADYO DEVA Oyun Havalari",
+				"url": "https://radyopanel.turkwebdizayn.com:10992/stream"
+			},
+			{
+				"name": "DENIZLI RADYO DEVA Turkce Muzik",
+				"url": "https://radyopanel.turkwebdizayn.com:10991/stream"
+			},
+			{
+				"name": "DENIZLI RADYO DEVA Yabanci Muzik",
+				"url": "https://radyopanel.turkwebdizayn.com:10993/stream"
+			},
+			{
+				"name": "DENIZLI SES RADYO",
+				"url": "http://95.173.188.166:9300/;"
+			},
+			{
+				"name": "DERYA FM Konya",
+				"url": "http://nonstopkonya.canliyayinda.com:9898/;stream.mp3"
+			},
+			{
+				"name": "DIJITAL RADYO",
+				"url": "http://yayin.liderhost.net:9406/;"
+			},
+			{
+				"name": "DIJITAL RADYO",
+				"url": "http://yayin.liderhost.net:9406/DİJİTAL RADYO"
+			},
+			{
+				"name": "DIJITAL RADYO",
+				"url": "http://94.23.8.100:9406/stream;"
+			},
+			{
+				"name": "DIJITAL RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10961/;"
+			},
+			{
+				"name": "DINAMO FM",
+				"url": "https://channels.dinamo.fm/legacy-mp3"
+			},
+			{
+				"name": "DISCOLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8"
+			},
+			{
+				"name": "DIYANET KURAN RADYO",
+				"url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8"
+			},
+			{
+				"name": "DIYANET RADYO",
+				"url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8"
+			},
+			{
+				"name": "DIYANET RISALET RADYO",
+				"url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8"
+			},
+			{
+				"name": "DIYARBAKIR AMED RADYO",
+				"url": "http://95.173.162.182:9992/;"
+			},
+			{
+				"name": "DIYARBAKIR DOGAN 21 FM",
+				"url": "http://yayin1.yayindakiler.com:3024/;"
+			},
+			{
+				"name": "DOKSAN FM",
+				"url": "https://radyopanel.turkwebdizayn.com/9988/stream"
+			},
+			{
+				"name": "DOKSANLAR",
+				"url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8"
+			},
+			{
+				"name": "DOST FM Ankara",
+				"url": "http://yayin.dostfm.com:8920/;"
+			},
+			{
+				"name": "DOST FM Ankara",
+				"url": "https://vofile.ru/turkey/dost_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "DREAM FM",
+				"url": "http://95.154.193.6:8079/stream"
+			},
+			{
+				"name": "DREAMTURK FM",
+				"url": "https://radyo.duhnet.tv/dreamturk"
+			},
+			{
+				"name": "DUY FM",
+				"url": "https://anadolu.liderhost.com.tr:10963/;"
+			},
+			{
+				"name": "DUZCE RADYO KENT",
+				"url": "https://anadolu.liderhost.com.tr:10905/;"
+			},
+			{
+				"name": "EASYLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8"
+			},
+			{
+				"name": "EFKAR",
+				"url": "https://22323.live.streamtheworld.com/SC008_SO1AAC.aac"
+			},
+			{
+				"name": "EFSANE 4'LU",
+				"url": "http://37.247.98.8/stream/19/"
+			},
+			{
+				"name": "EFSANE 4'LU",
+				"url": "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8"
+			},
+			{
+				"name": "EGE FM",
+				"url": "http://sunucu.radyodinle.com:2024/;"
+			},
+			{
+				"name": "EGE HAVALARI",
+				"url": "http://37.247.98.8/stream/29/"
+			},
+			{
+				"name": "EGE HAVALARI",
+				"url": "https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8"
+			},
+			{
+				"name": "EKIN RADYO",
+				"url": "http://yayin.turkhosted.com:6006/;"
+			},
+			{
+				"name": "ELAZIG EZGI RADYO",
+				"url": "http://sunucu.radyodinle.com:1782/;"
+			},
+			{
+				"name": "ELAZIG MAVI RADYO",
+				"url": "https://ssl.elazigmaviradyo.com/ssl/6066"
+			},
+			{
+				"name": "ELAZIG RADYO HAZAR",
+				"url": "http://radyohazar.canliyayinda.com:8286/;"
+			},
+			{
+				"name": "ELAZIG RADYO HAZAR",
+				"url": "http://radyo.yayin.com.tr:8286/;"
+			},
+			{
+				"name": "ELAZIG RADYO KENT",
+				"url": "http://yayin.yayindakiler.com:4044/;stream/1"
+			},
+			{
+				"name": "ELBISTAN RADYO UMUT",
+				"url": "http://yayin.canliyayin.org:8892/;"
+			},
+			{
+				"name": "ENDERUN FM",
+				"url": "http://yayin2.canliyayin.org:7052/;"
+			},
+			{
+				"name": "ERCIS FM",
+				"url": "https://anadolu.liderhost.com.tr:10970/;"
+			},
+			{
+				"name": "ERDEK FM Balikesir",
+				"url": "http://95.173.162.181:9912/;"
+			},
+			{
+				"name": "EREGLI DEMOKRAT FM",
+				"url": "https://radyo.akyuznet.com.tr/radio/8160/radio.mp3"
+			},
+			{
+				"name": "ERKAM RADYO",
+				"url": "http://5.44.154.18:9000/;"
+			},
+			{
+				"name": "ERKAM RADYO",
+				"url": "https://usd.nocvp.com/asset/7G7oEaxS/playlist.m3u8"
+			},
+			{
+				"name": "ERZINCAN INCITEK FM",
+				"url": "http://yayin2.yayindakiler.com:4204/;"
+			},
+			{
+				"name": "ERZINCAN RADYO DOST",
+				"url": "http://yayin1.yayindakiler.com:3156/;"
+			},
+			{
+				"name": "ERZINCAN RADYO TEK",
+				"url": "http://yayin2.yayindakiler.com:4202/;"
+			},
+			{
+				"name": "ERZURUM IMAJ FM",
+				"url": "http://sunucu.radyodinle.com:9797/;"
+			},
+			{
+				"name": "ERZURUM RADYO RITM",
+				"url": "http://radyo.yayin.com.tr:8091/;"
+			},
+			{
+				"name": "ES FM",
+				"url": "http://yayin.yayindakiler.com:4012/;"
+			},
+			{
+				"name": "ESAS RADYO",
+				"url": "http://yayin.turkhosted.com:6034/;"
+			},
+			{
+				"name": "ESKISEHIR TEMPO RADYO",
+				"url": "http://217.195.193.2:9988/;"
+			},
+			{
+				"name": "ESKISEHIR TEMPO RADYO",
+				"url": "https://vofile.ru/turkey/Tempo_Radyo/icecast.audio"
+			},
+			{
+				"name": "ESSEX TURKISH RADIO",
+				"url": "https://anadolu.liderhost.com.tr:10947/;"
+			},
+			{
+				"name": "EViN FM",
+				"url": "http://EvinFm.Com:9500"
+			},
+			{
+				"name": "EVRENSEL FM",
+				"url": "http://94.102.4.29:9996/;"
+			},
+			{
+				"name": "EVRENSEL RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10990/"
+			},
+			{
+				"name": "EZGI RADYO",
+				"url": "http://sunucu.radyodinle.com:1782/;"
+			},
+			{
+				"name": "FENOMEN",
+				"url": "https://listen.radyofenomen.com/fenomen/128/icecast.audio"
+			},
+			{
+				"name": "FENOMEN AKUSTIK",
+				"url": "https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio"
+			},
+			{
+				"name": "FENOMEN CLUBBIN",
+				"url": "https://listen.radyofenomen.com/fenomenclubbin/128/icecast.audio"
+			},
+			{
+				"name": "FENOMEN DANS",
+				"url": "https://listen.radyofenomen.com/fenomendans/128/icecast.audio"
+			},
+			{
+				"name": "FENOMEN KARISIK",
+				"url": "https://listen.radyofenomen.com/fenomenkarisik/128/icecast.audio"
+			},
+			{
+				"name": "FENOMEN ORIENTAL",
+				"url": "https://listen.radyofenomen.com/fenomenoriental/128/icecast.audio"
+			},
+			{
+				"name": "FENOMEN POP",
+				"url": "https://listen.radyofenomen.com/fenomenpop/128/icecast.audio"
+			},
+			{
+				"name": "FENOMEN RAP",
+				"url": "https://listen.radyofenomen.com/fenomenrap/128/icecast.audio"
+			},
+			{
+				"name": "FENOMEN TURK",
+				"url": "https://listen.radyofenomen.com/fenomenturk/128/icecast.audio"
+			},
+			{
+				"name": "FENOMEN TURKCE RAP",
+				"url": "https://listen.radyofenomen.com/fenomenturkrap/128/icecast.audio"
+			},
+			{
+				"name": "FIRAT FM",
+				"url": "https://anadolu.liderhost.com.tr:10913/;"
+			},
+			{
+				"name": "FISTIK FM",
+				"url": "http://yayin1.yayindakiler.com:2036/;stream.nsv"
+			},
+			{
+				"name": "FISTIK FM",
+				"url": "https://radyo.yayindakiler.com/stream/gaziantepfistik"
+			},
+			{
+				"name": "FISTIK FM",
+				"url": "https://vofile.ru/turkey/fistik_fm/icecast.audio"
+			},
+			{
+				"name": "FILIZ FM",
+				"url": "http://sunucu.radyodinle.com:6746/;"
+			},
+			{
+				"name": "FLOW",
+				"url": "https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8"
+			},
+			{
+				"name": "FM 23 Elazig",
+				"url": "http://radyofm23.canliyayinda.com:8280/STREAM"
+			},
+			{
+				"name": "FM 23 Elazig",
+				"url": "http://radyo.yayin.com.tr:8280/;"
+			},
+			{
+				"name": "FON RADYO Malatya",
+				"url": "http://sunucu.radyodinle.com:9188/;"
+			},
+			{
+				"name": "FORA FM VIYANA",
+				"url": "https://ssl120.radyotelekom.com.tr:10910/;"
+			},
+			{
+				"name": "FURKAN RADYO",
+				"url": "http://62.210.70.80:6191/;"
+			},
+			{
+				"name": "FURKAN RADYO",
+				"url": "http://yayin.yayindakiler.com:6191/;"
+			},
+			{
+				"name": "FURKAN RADYO",
+				"url": "https://radio-streaming.net/turkey/furkan-radyo-kayseri/playlist.m3u8"
+			},
+			{
+				"name": "GAP FM",
+				"url": "https://anadolu.liderhost.com.tr:10891/;"
+			},
+			{
+				"name": "GARAJ RADYO",
+				"url": "http://ssl3.radyotvonline.com/radyoland/garajradyo.stream/playlist.m3u8"
+			},
+			{
+				"name": "GAZIANTEP RADYO KILIM",
+				"url": "http://sunucu.radyodinle.com:2727/;"
+			},
+			{
+				"name": "GAZIANTEP RADYO KILIM",
+				"url": "http://yayin.netyayin.net:2727/;"
+			},
+			{
+				"name": "GAZIANTEP RADYO SIRINNAR",
+				"url": "http://yayin.yayindakiler.com:4048/;"
+			},
+			{
+				"name": "GEBZE FM",
+				"url": "http://gebzefm.radyotvyayini.com:9530/;"
+			},
+			{
+				"name": "GEBZE GUL FM",
+				"url": "http://yayin2.canliyayin.org:8866/;"
+			},
+			{
+				"name": "GECEKUSU FM",
+				"url": "https://radyo1.radyo-dinle.tc:7053/;"
+			},
+			{
+				"name": "GENC IMAJ FM",
+				"url": "https://anadolu.liderhost.com.tr:10950/;"
+			},
+			{
+				"name": "GENC KRAL FM Istanbul",
+				"url": "https://anadolu.liderhost.com.tr:10991/;"
+			},
+			{
+				"name": "GENC KRAL FM Kayseri",
+				"url": "https://anadolu.liderhost.com.tr/8090/;"
+			},
+			{
+				"name": "GENC RADYO",
+				"url": "http://dijimedya.radyotvonline.net/gncradyo"
+			},
+			{
+				"name": "GENC RADYO Konya",
+				"url": "http://yayin.turkhosted.com:6030/;"
+			},
+			{
+				"name": "GENERAL FM",
+				"url": "http://37.59.205.232:9342/;"
+			},
+			{
+				"name": "GEREDE FM",
+				"url": "http://yayin.yayindakiler.com:4058/;"
+			},
+			{
+				"name": "GIMSA RADYO",
+				"url": "http://yayin.canliyayin.org:9482/;"
+			},
+			{
+				"name": "GIRESUN FM",
+				"url": "http://sunucu.radyodinle.com:2828/;"
+			},
+			{
+				"name": "GIRESUN FM",
+				"url": "https://radio-streaming.net/turkey/giresun-102-5-fm-dinle/playlist.m3u8"
+			},
+			{
+				"name": "GOLD FM",
+				"url": "http://dijimedya.radyotvonline.net/goldfm"
+			},
+			{
+				"name": "GOLD FM Luleburgaz",
+				"url": "http://yayin2.yayindakiler.com:4252/;"
+			},
+			{
+				"name": "GOLD TURK",
+				"url": "http://dijimedya.radyotvonline.net/goldturk"
+			},
+			{
+				"name": "GOKKUSAGI RADYO",
+				"url": "http://gokkusagiradyo.kesintisizyayin.com:8008/;?1610699628161"
+			},
+			{
+				"name": "GOKSU FM",
+				"url": "https://ssl162.ozelip.com/asistan/stream/649d2a604c2eb8cdf9de00d9c18d8923"
+			},
+			{
+				"name": "GOL RADYO Bingol",
+				"url": "http://yayin.yayindakiler.com:3010/;"
+			},
+			{
+				"name": "GONUL TURKULERI",
+				"url": "https://22653.live.streamtheworld.com/SC020_SO1AAC.aac"
+			},
+			{
+				"name": "GOZDE FM",
+				"url": "https://gozdefm.80.yayin.com.tr/;"
+			},
+			{
+				"name": "GOZDE FM Yalova",
+				"url": "http://gozdefm.canliyayinda.com:5952/;"
+			},
+			{
+				"name": "GOZYASI FM",
+				"url": "http://yayin1.canliyayin.org:8700/;"
+			},
+			{
+				"name": "GOZYASIM FM",
+				"url": "https://radyo1.radyo-dinle.tc:7050/;"
+			},
+			{
+				"name": "GREEKLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8"
+			},
+			{
+				"name": "GURBETCI RADYO",
+				"url": "https://radyo1.radyo-dinle.tc:7009/;"
+			},
+			{
+				"name": "GUL RADYO",
+				"url": "http://yayin2.canliyayin.org:8866/;"
+			},
+			{
+				"name": "GULSEHIR GUL FM",
+				"url": "http://radyonevsehir.radyoyayini.com:5000/;"
+			},
+			{
+				"name": "HABER 61",
+				"url": "http://radyohaber61.canliyayinda.com:6161/;"
+			},
+			{
+				"name": "HAKKARI FM",
+				"url": "http://167.86.100.31:9302/;"
+			},
+			{
+				"name": "HAKKARININ SESI RADYOSU",
+				"url": "http://yayin.netyayin.net:3030/;"
+			},
+			{
+				"name": "HAKTAN FM",
+				"url": "https://anadolu.liderhost.com.tr:10980/;"
+			},
+			{
+				"name": "HAKTAN FM",
+				"url": "http://anadolu.liderhost.com.tr:3696/;"
+			},
+			{
+				"name": "HALK RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10876/;"
+			},
+			{
+				"name": "HAMSI FM",
+				"url": "http://yayin.liderhost.net:8028/;"
+			},
+			{
+				"name": "HAMSI FM",
+				"url": "https://anadolu.liderhost.com.tr:10992/;"
+			},
+			{
+				"name": "HARBI RADYO",
+				"url": "http://yayin.yayindakiler.com:4188/;"
+			},
+			{
+				"name": "HARBI RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10958/;"
+			},
+			{
+				"name": "HARBI RADYO",
+				"url": "https://radio-streaming.net/turkey/harbi-radyo/playlist.m3u8"
+			},
+			{
+				"name": "HARMAN RADYO",
+				"url": "http://159.253.37.137:9888/;"
+			},
+			{
+				"name": "HATAY AKDENIZ FM",
+				"url": "http://yayin.netyayin.net:7077/;"
+			},
+			{
+				"name": "HATAY ASYA RADYO",
+				"url": "http://sunucu.radyodinle.com:9850/;"
+			},
+			{
+				"name": "HATAY FM",
+				"url": "http://sunucu.radyodinle.com:9900/;"
+			},
+			{
+				"name": "HATAY SUPER SHOW RADYO",
+				"url": "http://yayin.netyayin.net:6065/;"
+			},
+			{
+				"name": "HAYAL FM",
+				"url": "http://yayin.radyohayalfm.net:8050/;"
+			},
+			{
+				"name": "HAYAL FM",
+				"url": "https://vofile.ru/turkey/hayal_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "HAYATMIX ARABESK",
+				"url": "https://hayatmix.yayin.com.tr:1010/mp3"
+			},
+			{
+				"name": "HAYATMIX REMIX",
+				"url": "https://hayatmix.yayin.com.tr/mp3"
+			},
+			{
+				"name": "HAYATMIX SLOW",
+				"url": "https://hayatmix.yayin.com.tr:2010/mp3"
+			},
+			{
+				"name": "HEDEF RADYO",
+				"url": "http://wowza.radyogrup.com:4010/;"
+			},
+			{
+				"name": "HELBEST FM",
+				"url": "http://HelBestFm.Com:9900"
+			},
+			{
+				"name": "HISAR FM",
+				"url": "http://dinle.hisarfm.net:9621/;"
+			},
+			{
+				"name": "HIT FM",
+				"url": "http://yayin.turkiletisim.com.tr:1094/;"
+			},
+			{
+				"name": "HOCALAR FM",
+				"url": "http://netradyon.online:9955/stream"
+			},
+			{
+				"name": "HOME KLASIK",
+				"url": "https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "HOSMIX",
+				"url": "https://anadolu.liderhost.com.tr:10871/;"
+			},
+			{
+				"name": "HOUSELAND",
+				"url": "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8"
+			},
+			{
+				"name": "HUR FM",
+				"url": "http://radyo.fikirsahipleri.com:9952/;"
+			},
+			{
+				"name": "IGDIR FM",
+				"url": "http://yayin2.yayindakiler.com:4158/;"
+			},
+			{
+				"name": "ILGIN FM",
+				"url": "http://95.173.184.17:9942/;"
+			},
+			{
+				"name": "ILGIN FM",
+				"url": "https://vofile.ru/turkey/ilgin_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "ILAC DAMAR FM",
+				"url": "https://radio.radyotescil.net:7021/;"
+			},
+			{
+				"name": "ILKGUN RADYO",
+				"url": "https://ssl123.ozelip.com:7029/;"
+			},
+			{
+				"name": "ILKGUN RADYO",
+				"url": "https://ssl123.ozelip.com/8058/;"
+			},
+			{
+				"name": "IMBAT FM",
+				"url": "http://38.96.148.39:8746/;"
+			},
+			{
+				"name": "IMBAT FM",
+				"url": "https://vofile.ru/turkey/imbat_fm/icecast.audio"
+			},
+			{
+				"name": "INCI FM",
+				"url": "http://ip186.radyotelekom.org:9794/;"
+			},
+			{
+				"name": "ISPARTA ARKADAS FM",
+				"url": "http://yayin.yayindakiler.com:4134/;"
+			},
+			{
+				"name": "ISRA FM",
+				"url": "http://yayin1.canliyayin.org:8210/;"
+			},
+			{
+				"name": "ISTANBUL KENT FM",
+				"url": "http://46.20.7.101/stream/267/;"
+			},
+			{
+				"name": "ISTANBUL'UN SESI RADYOSU",
+				"url": "http://shoutcast.gostream.nl:8110/;"
+			},
+			{
+				"name": "ITU JAZZ - BLUES",
+				"url": "http://160.75.86.29:8088/stream/3/"
+			},
+			{
+				"name": "ITU KLASIK MUSIC",
+				"url": "http://160.75.86.29:8088/stream/5/"
+			},
+			{
+				"name": "ITU RADYOSU ROCK",
+				"url": "http://160.75.86.29:8088/stream/1/"
+			},
+			{
+				"name": "JAZZLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8"
+			},
+			{
+				"name": "JOY FM",
+				"url": "https://17753.live.streamtheworld.com/JOY_FMAAC.aac"
+			},
+			{
+				"name": "JOY JAZZ",
+				"url": "https://17753.live.streamtheworld.com/JOY_JAZZ128AAC.aac"
+			},
+			{
+				"name": "JOY LOUNGE",
+				"url": "https://21633.live.streamtheworld.com/SC029_SO1AAC.aac"
+			},
+			{
+				"name": "JOY TURK",
+				"url": "https://17773.live.streamtheworld.com/JOY_TURKAAC.aac"
+			},
+			{
+				"name": "JOY TURK AKUSTIK",
+				"url": "https://21293.live.streamtheworld.com/SC004_SO1AAC.aac"
+			},
+			{
+				"name": "JOYTURK ROCK",
+				"url": "https://17733.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac"
+			},
+			{
+				"name": "KACKAR FM",
+				"url": "https://ssl120.radyotelekom.com.tr/8678/stream"
+			},
+			{
+				"name": "KAFA RADYO",
+				"url": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8"
+			},
+			{
+				"name": "KAFA RADYO",
+				"url": "http://37.247.98.17/;"
+			},
+			{
+				"name": "KAFKAS FM",
+				"url": "http://karskafkasfm.ozelip.com:7890/;"
+			},
+			{
+				"name": "KAHTA FM",
+				"url": "http://www.onlinedinle.com:8444/;stream.nsv"
+			},
+			{
+				"name": "KAMPUS FM",
+				"url": "http://193.255.97.57/;stream/1"
+			},
+			{
+				"name": "KANAL E RADYO",
+				"url": "http://yayin.turkiletisim.com.tr:9970/;"
+			},
+			{
+				"name": "KAPADOKYA FM",
+				"url": "https://icecast.netmedya.net/kapadokyafm"
+			},
+			{
+				"name": "KAPRIS FM",
+				"url": "http://kaprisfm.canliyayinda.com:8183/;"
+			},
+			{
+				"name": "KARADENIZ",
+				"url": "https://21253.live.streamtheworld.com/SC005_SO1AAC.aac"
+			},
+			{
+				"name": "KARADENIZ FM",
+				"url": "https://wowza1.radyotvonline.com/unitedmedia/karadenizfm.stream/playlist.m3u8"
+			},
+			{
+				"name": "KARADENIZ FM",
+				"url": "http://46.20.7.100/stream/170/"
+			},
+			{
+				"name": "KARADENIZ FM",
+				"url": "https://ssl4.radyotvonline.com/radyohome/karadenizfmhome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "KARADENIZ FM",
+				"url": "https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8"
+			},
+			{
+				"name": "KARADENIZIN SESI FM",
+				"url": "http://95.173.188.155:7070/;"
+			},
+			{
+				"name": "KARADENIZIN SESI RADYOSU",
+				"url": "http://yayin1.canliyayin.org:8200/;"
+			},
+			{
+				"name": "KARAMAN RADYO",
+				"url": "https://sp.radyotescil.com:7016/;"
+			},
+			{
+				"name": "KARAMURSEL FM",
+				"url": "http://yayin1.yayindakiler.com:3052/;"
+			},
+			{
+				"name": "KARDELEN FM",
+				"url": "http://dinle.kardelenfm.com:2000/;"
+			},
+			{
+				"name": "KARMA TURK FM",
+				"url": "http://radyo1.radyo-dinle.tc:8056/;"
+			},
+			{
+				"name": "KASTAMONU FM",
+				"url": "http://yayin.turkhosted.com:6004/;"
+			},
+			{
+				"name": "KASTAMONU FM",
+				"url": "https://radio-streaming.net/turkey/kastamonu-fm/icecast.audio"
+			},
+			{
+				"name": "KASTAMONU FM",
+				"url": "https://radio-streaming.net/turkey/kastamonu-fm/playlist.m3u8"
+			},
+			{
+				"name": "KASTAMONU TASARIM",
+				"url": "https://radyo1.radyo-dinle.tc:7029/;"
+			},
+			{
+				"name": "KAY RADYO",
+				"url": "http://yayin1.yayindakiler.com:3054/stream"
+			},
+			{
+				"name": "KAYSERI GOZDE FM",
+				"url": "http://yayin1.yayindakiler.com:3056/;"
+			},
+			{
+				"name": "KEMENCE FM",
+				"url": "http://dinle.kemencefm.net:6161;"
+			},
+			{
+				"name": "KEMENCE FM",
+				"url": "https://radio-streaming.net/turkey/kemence-fm-sakarya/icecast.audio"
+			},
+			{
+				"name": "KEMENCE FM",
+				"url": "https://radio-streaming.net/turkey/kemence-fm-sakarya/playlist.m3u8"
+			},
+			{
+				"name": "KENT FM",
+				"url": "http://46.20.7.101/stream/268/;"
+			},
+			{
+				"name": "KENT FM",
+				"url": "https://ssl4.radyotvonline.com/radyohome/kentfmhome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "KENT RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10906/;"
+			},
+			{
+				"name": "KERVAN FM",
+				"url": "http://yayin2.canliyayin.org:9374/;stream.mp3"
+			},
+			{
+				"name": "KERVAN FM",
+				"url": "https://vofile.ru/turkey/kervan_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "KERVAN FM",
+				"url": "http://www.keskinfm.com:1021/;"
+			},
+			{
+				"name": "KESKIN FM",
+				"url": "http://yayin1.canliyayin.org:8286/;"
+			},
+			{
+				"name": "KESKIN FM",
+				"url": "https://radio-streaming.net/turkey/keskin-fm/playlist.m3u8"
+			},
+			{
+				"name": "KESAN FM",
+				"url": "http://sunucu.radyodinle.com:2234/;stream.mp3"
+			},
+			{
+				"name": "KESAN FM",
+				"url": "https://radio-streaming.net/turkey/kesan-fm/playlist.m3u8"
+			},
+			{
+				"name": "KEYF FM",
+				"url": "http://duble.radyotvyayini.com:9998/;"
+			},
+			{
+				"name": "KIRKLARELI SOYLU FM",
+				"url": "http://yayin.yayindakiler.com:4034/;"
+			},
+			{
+				"name": "KIRKLARELI SOYLU FM",
+				"url": "https://radio-streaming.net/turkey/soylu-fm/playlist.m3u8"
+			},
+			{
+				"name": "KIZILTEPE RADYO EMEK",
+				"url": "http://emekradyo.canliyayindinle.com:8585/;"
+			},
+			{
+				"name": "KIZILTEPE RADYO EMEK",
+				"url": "http://yayin1.radyohizmeti.com:8585/;stream.mp3"
+			},
+			{
+				"name": "KIZILTEPE RADYO EMEK",
+				"url": "https://radio-streaming.net/turkey/emek-radyo/playlist.m3u8"
+			},
+			{
+				"name": "KIZILTEPE RADYO ZERGAN",
+				"url": "http://yayin.yayindakiler.com:3194/;"
+			},
+			{
+				"name": "KILIS SULTAN RADYO",
+				"url": "http://sunucu.radyodinle.com:7979/;"
+			},
+			{
+				"name": "KISS DANCE",
+				"url": "http://dijimedya.radyotvonline.net/kissdance"
+			},
+			{
+				"name": "KISS FM",
+				"url": "https://17733.live.streamtheworld.com/KISS_FM128AAC.aac"
+			},
+			{
+				"name": "KISS FM TURKIYE",
+				"url": "https://topradio-de-hz-fal-stream03-cluster01.radiohost.de/kissfm-tuerkisch_aac-64"
+			},
+			{
+				"name": "KISS LOVE RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10964/;"
+			},
+			{
+				"name": "KISS RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10966/;"
+			},
+			{
+				"name": "KISS TURK FM",
+				"url": "http://46.20.4.108/Stream2"
+			},
+			{
+				"name": "KISS TURK FM",
+				"url": "https://18463.live.streamtheworld.com/KISS_TURK128AAC.aac"
+			},
+			{
+				"name": "KLAS RADIO",
+				"url": "https://anadolu.liderhost.com.tr:10929/;"
+			},
+			{
+				"name": "KLASIK HOME",
+				"url": "http://37.247.98.8/stream/32/"
+			},
+			{
+				"name": "KLASIK HOME",
+				"url": "https://moondigitalmaster.radyotvonline.net/klasikhome/playlist.m3u8"
+			},
+			{
+				"name": "KOCAELI RADYO NIKOMEDYA",
+				"url": "http://yayin.netyayin.net:2631/;"
+			},
+			{
+				"name": "KOLEJ FM",
+				"url": "http://yayin2.yayindakiler.com:4130/;"
+			},
+			{
+				"name": "KOLEJ FM",
+				"url": "https://radio-streaming.net/turkey/kolej-fm/icecast.audio"
+			},
+			{
+				"name": "KONYA FM",
+				"url": "http://212.175.65.102:8001/live"
+			},
+			{
+				"name": "KONYA FM",
+				"url": "https://vofile.ru/turkey/konya_fm/icecast.audio"
+			},
+			{
+				"name": "KONYA RADYO EN",
+				"url": "http://yayin2.canliyayin.org:7222/;"
+			},
+			{
+				"name": "KONYA TIRYAKI FM",
+				"url": "http://yayin.turkhosted.com:6056/mp3"
+			},
+			{
+				"name": "KOPAR FM",
+				"url": "https://radyo1.radyo-dinle.tc:7061/;"
+			},
+			{
+				"name": "KORDON FM",
+				"url": "http://38.96.148.39:8588/;"
+			},
+			{
+				"name": "KORDON FM",
+				"url": "http://38.96.148.39:8846/;"
+			},
+			{
+				"name": "KORDON FM",
+				"url": "https://vofile.ru/turkey/kordon_fm/icecast.audio"
+			},
+			{
+				"name": "KORGANIN SESI FM",
+				"url": "https://anadolu.liderhost.com.tr:10908/;"
+			},
+			{
+				"name": "KOZAN FM",
+				"url": "http://sunucu.radyodinle.com:3401/;"
+			},
+			{
+				"name": "KOZAN FM",
+				"url": "https://vofile.ru/turkey/kozan_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "KORFEZ FM Edremit",
+				"url": "http://159.253.39.180:9954/;"
+			},
+			{
+				"name": "KRAL DAMAR FM",
+				"url": "https://vofile.ru/turkey/kral_damar_fm/icecast.audio"
+			},
+			{
+				"name": "KRAL DAMAR FM",
+				"url": "https://vofile.ru/turkey/kral_damar_fm/playlist.m3u8"
+			},
+			{
+				"name": "KRAL FM",
+				"url": "http://kralwmp.radyotvonline.com/;"
+			},
+			{
+				"name": "KRAL FM",
+				"url": "https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8"
+			},
+			{
+				"name": "KRAL FM",
+				"url": "https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8"
+			},
+			{
+				"name": "KRAL FM",
+				"url": "https://dygmaster.radyotvonline.net/kralfm/playlist.m3u8"
+			},
+			{
+				"name": "KRAL POP",
+				"url": "http://kralpopwmp.radyotvonline.com/;"
+			},
+			{
+				"name": "KRAL POP",
+				"url": "https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8"
+			},
+			{
+				"name": "KRAL POP",
+				"url": "https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8"
+			},
+			{
+				"name": "KRAL POP",
+				"url": "https://dygmaster.radyotvonline.net/kralpop/playlist.m3u8"
+			},
+			{
+				"name": "KRAL TURK FM",
+				"url": "https://yayin.radyoarabesk.com.tr:8000/stream"
+			},
+			{
+				"name": "KRALIM FM Kars",
+				"url": "http://kralimfm.ozelip.com:7890/;"
+			},
+			{
+				"name": "KURAN MEAL RADYO",
+				"url": "http://37.247.98.8/stream/33/"
+			},
+			{
+				"name": "KURDI FM",
+				"url": "https://anadolu.liderhost.com.tr:10939/;"
+			},
+			{
+				"name": "KUSADASI 105 FM",
+				"url": "https://ip169.ozelip.com/8348/stream"
+			},
+			{
+				"name": "KUSADASI RADYO NET",
+				"url": "http://91.134.25.37:9336/;"
+			},
+			{
+				"name": "KUZEY FM",
+				"url": "http://yayin.yayindakiler.com:3028/;"
+			},
+			{
+				"name": "KUPE FM",
+				"url": "https://icecast.netmedya.net/kupefm"
+			},
+			{
+				"name": "LALEGUL FM",
+				"url": "http://live46.netmedya.net:443/lalegulfm"
+			},
+			{
+				"name": "LIDER FM",
+				"url": "http://yayin1.yayindakiler.com:3046/;"
+			},
+			{
+				"name": "LIG RADYO",
+				"url": "https://ligradyo.radyotvonline.net/ligradyo"
+			},
+			{
+				"name": "LIG RADYO",
+				"url": "https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8"
+			},
+			{
+				"name": "LIG RADYO",
+				"url": "http://46.20.3.246/stream/105/"
+			},
+			{
+				"name": "LOKUM FM",
+				"url": "http://37.247.98.9/stream/493/;"
+			},
+			{
+				"name": "LOKUM FM",
+				"url": "https://radio-streaming.net/turkey/lokum-97-7-fm/playlist.m3u8"
+			},
+			{
+				"name": "LOUNGE FM",
+				"url": "https://sc.vargonen.net:5003/;"
+			},
+			{
+				"name": "LOVE FM",
+				"url": "http://LoveFm.iNFO:9000"
+			},
+			{
+				"name": "LULEBURGAZ FM",
+				"url": "http://yayin.netyayin.net:3439/;"
+			},
+			{
+				"name": "MAGIC FM",
+				"url": "http://yayin1.yayindakiler.com:3032/;"
+			},
+			{
+				"name": "MALATYA GROSS FM",
+				"url": "https://radyo1.radyo-dinle.tc:7015/;"
+			},
+			{
+				"name": "MALATYA INTERNET FM",
+				"url": "https://radyo1.radyo-dinle.tc:7033/;"
+			},
+			{
+				"name": "MALATYA RADYO IMPARATOR",
+				"url": "http://radyo.yayin.com.tr:4012/;"
+			},
+			{
+				"name": "MAMAS FM",
+				"url": "http://mamasfm.com:9984/;"
+			},
+			{
+				"name": "MAMAS FM",
+				"url": "http://213.202.254.133:9984/;"
+			},
+			{
+				"name": "MAMAS FM",
+				"url": "https://mamasturku-erdem.radioca.st/stream.mp3"
+			},
+			{
+				"name": "MAMAS FM ARABESK",
+				"url": "http://mamasfm.com:3500/;"
+			},
+			{
+				"name": "MAMAS FM ARABESK",
+				"url": "http://213.202.254.133:3500/;"
+			},
+			{
+				"name": "MAMAS FM ARABESK",
+				"url": "https://arabesk-erdem.radioca.st/stream.mp3"
+			},
+			{
+				"name": "MAMAS FM POP",
+				"url": "http://mamasfm.com:4500/;"
+			},
+			{
+				"name": "MAMAS FM POP",
+				"url": "http://213.202.254.133:4500/;"
+			},
+			{
+				"name": "MAMAS FM POP",
+				"url": "https://pop-erdem.radioca.st/stream.mp3"
+			},
+			{
+				"name": "MAMAS FM TURK SANAT MUZIGI",
+				"url": "http://mamasfm.com:5000/;"
+			},
+			{
+				"name": "MAMAS FM TURK SANAT MUZIGI",
+				"url": "http://213.202.254.133:5000/;"
+			},
+			{
+				"name": "MAMAS FM TURK SANAT MUZIGI",
+				"url": "https://tsm-erdem.radioca.st/stream.mp3"
+			},
+			{
+				"name": "MAMAS FM TURKU RADYOSU",
+				"url": "http://mamasfm.com:8000/;"
+			},
+			{
+				"name": "MAMAS FM TURKU RADYOSU",
+				"url": "http://213.202.254.133:8000/;"
+			},
+			{
+				"name": "MAMAS FM TURKU RADYOSU",
+				"url": "https://mamasturku-erdem.radioca.st/stream.mp3"
+			},
+			{
+				"name": "MARAS SULTAN RADYO",
+				"url": "http://yayin.turkhosted.com:4949/;"
+			},
+			{
+				"name": "MAVI GECE FM",
+				"url": "http://kesintisizyayin.com:1656/;?1597507265486.mp3"
+			},
+			{
+				"name": "MAVI RADYO",
+				"url": "https://ssl.elazigmaviradyo.com/ssl/6066"
+			},
+			{
+				"name": "MAXIMUM RADYO",
+				"url": "http://37.59.205.232:9406/;"
+			},
+			{
+				"name": "MAXIMUM RADYO",
+				"url": "http://yayin.liderhost.net:9406/;"
+			},
+			{
+				"name": "MAZIDEN BIR DEMET",
+				"url": "http://37.247.98.8/stream/24/"
+			},
+			{
+				"name": "MAZIDEN BIR DEMET",
+				"url": "https://moondigitalmaster.radyotvonline.net/mazidenbirdemet/playlist.m3u8"
+			},
+			{
+				"name": "MEDINE FM",
+				"url": "https://anadolu.liderhost.com.tr:10904/;"
+			},
+			{
+				"name": "MEDYA FM",
+				"url": "http://live2.radyotvonline.com:9390/;"
+			},
+			{
+				"name": "MEDYA FM",
+				"url": "http://46.20.7.100/stream/76/"
+			},
+			{
+				"name": "MEDYA FM",
+				"url": "https://rto3.turkhosted.com/stream/76/?&1610741586350"
+			},
+			{
+				"name": "MEDYA FM",
+				"url": "https://vofile.ru/turkey/medya_fm/icecast.audio"
+			},
+			{
+				"name": "MEGA FM Koceli",
+				"url": "http://46.105.35.48:9346/;"
+			},
+			{
+				"name": "MEGA FM Koceli",
+				"url": "https://vofile.ru/turkey/mega_fm_izmit_dinle/icecast.audio"
+			},
+			{
+				"name": "MELODI FM",
+				"url": "https://stream.rcast.live/63956"
+			},
+			{
+				"name": "MELENKOLIK HOME",
+				"url": "http://37.247.98.8/stream/20/"
+			},
+			{
+				"name": "MELENKOLIK HOME",
+				"url": "https://moondigitalmaster.radyotvonline.net/melankolikhome/playlist.m3u8"
+			},
+			{
+				"name": "MELTEM RADYO",
+				"url": "https://radyo1.radyo-dinle.tc:7024/;"
+			},
+			{
+				"name": "MERKEZ FM Samsun",
+				"url": "http://uydu.radyotvyayini.com:8016/;"
+			},
+			{
+				"name": "MERSIN FM",
+				"url": "http://broadcasttr.com:8038/;"
+			},
+			{
+				"name": "MERSIN FM",
+				"url": "http://stream.taksimbilisim.com:8038/;"
+			},
+			{
+				"name": "MERSIN FM",
+				"url": "http://broadcasttr.com:1935/tepemedya/mersinfm.stream/playlist.m3u8"
+			},
+			{
+				"name": "MERSIN FM",
+				"url": "https://vofile.ru/turkey/mersin_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "MERSIN UNIVERSITESI RADYOSU",
+				"url": "http://radyo.mersin.edu.tr:8000/meu"
+			},
+			{
+				"name": "MESALE RADYO Osmaniye",
+				"url": "https://vofile.ru/turkey/mesale-radyo/icecast.audio"
+			},
+			{
+				"name": "MESK FM",
+				"url": "http://meskfm.radyolarburada.com:9550/;"
+			},
+			{
+				"name": "MESK FM",
+				"url": "http://sunucu2.radyolarburada.com:9550/;stream.mp3"
+			},
+			{
+				"name": "MESK FM",
+				"url": "https://vofile.ru/turkey/mesk_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "METEOROLOJININ SESI RADYOSU",
+				"url": "http://radyomgm.canliyayinda.com/;"
+			},
+			{
+				"name": "METEOROLOJININ SESI RADYOSU",
+				"url": "http://meteor.canliyayinda.com/;"
+			},
+			{
+				"name": "METRO FM",
+				"url": "https://17773.live.streamtheworld.com/METRO_FM128AAC.aac"
+			},
+			{
+				"name": "METROPOL FM",
+				"url": "https://vofile.ru/turkey/metropol_fm/icecast.audio"
+			},
+			{
+				"name": "METROPOL FM BERLIN",
+				"url": "https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac"
+			},
+			{
+				"name": "MEZOPOTAMYA RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10965/;"
+			},
+			{
+				"name": "MILAS RADYO GOZLEM",
+				"url": "http://arifozbey.com:8000/radyogozlem.ogg"
+			},
+			{
+				"name": "MIRAC FM",
+				"url": "https://anadolu.liderhost.com.tr:10942/;"
+			},
+			{
+				"name": "MISKET RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10976/;"
+			},
+			{
+				"name": "MORAL FM",
+				"url": "http://yayin2.canliyayin.org:8886/;"
+			},
+			{
+				"name": "MOREL FM",
+				"url": "http://yayin.yasamhosting.com.tr:6774/;"
+			},
+			{
+				"name": "MUS RADYO 49",
+				"url": "http://sunucu.radyodinle.com:8850/;"
+			},
+			{
+				"name": "MUS RADYO 49",
+				"url": "https://radio-streaming.net/turkey/radyo-49-mus/icecast.audio"
+			},
+			{
+				"name": "MUS RADYO 49",
+				"url": "https://radio-streaming.net/turkey/radyo-49-mus/playlist.m3u8"
+			},
+			{
+				"name": "MUTLU FM",
+				"url": "http://mutlufm.canliyayinda.com:2828/;stream.nsv"
+			},
+			{
+				"name": "MUZEYYEN",
+				"url": "https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8"
+			},
+			{
+				"name": "MUZEYYEN",
+				"url": "http://46.20.4.34/radyoland/muzeyyen.stream/playlist.m3u8"
+			},
+			{
+				"name": "MYDONOSE TURK",
+				"url": "https://21293.live.streamtheworld.com/SC016_SO1AAC.aac"
+			},
+			{
+				"name": "NAZILLI MEGA FM",
+				"url": "http://198.7.59.28:8363/;"
+			},
+			{
+				"name": "NAZILLI RADYO OZDEN",
+				"url": "http://live.radyotvonline.com:9050/;"
+			},
+			{
+				"name": "NAZILLI RADYO OZDEN",
+				"url": "https://radio-streaming.net/turkey/radyo-ozden-nazilli/icecast.audio"
+			},
+			{
+				"name": "NEBI FM",
+				"url": "https://anadolu.liderhost.com.tr:10901/;"
+			},
+			{
+				"name": "NEVSEHIR RADYO MEGA",
+				"url": "http://yayin2.canliyayin.org:7872/;"
+			},
+			{
+				"name": "NEVSEHIR RADYO MEGA",
+				"url": "https://vofile.ru/turkey/nevsehir_radyo_mega/icecast.audio"
+			},
+			{
+				"name": "NIGDE FM",
+				"url": "http://kesintisizyayin.com:1656/;"
+			},
+			{
+				"name": "NIGDE FM",
+				"url": "https://vofile.ru/turkey/nigde_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "NIGDE TEMPO FM",
+				"url": "http://yayin2.canliyayin.org:8344/;stream"
+			},
+			{
+				"name": "NON STOP KONYA",
+				"url": "http://nonstopkonya.canliyayinda.com:9898/;"
+			},
+			{
+				"name": "NON STOP KONYA",
+				"url": "https://vofile.ru/turkey/non-stop-konya-320kbps/icecast.audio"
+			},
+			{
+				"name": "NOSTALJI FM",
+				"url": "http://2.59.117.43:2020/;stream.mp3"
+			},
+			{
+				"name": "NTV RADYO",
+				"url": "http://ntvrdwmp.radyotvonline.com/;"
+			},
+			{
+				"name": "NTV RADYO",
+				"url": "http://ntvrdfms.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8"
+			},
+			{
+				"name": "NTV RADYO",
+				"url": "https://rto.turkhosted.com/smil/smil:ntvradyo.smil/playlist.m3u8"
+			},
+			{
+				"name": "NTV RADYO",
+				"url": "https://ssldyg.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8"
+			},
+			{
+				"name": "NTV RADYO",
+				"url": "https://ssldyg2.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 BEST OF",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 CLASSIC",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 DANCE",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e33b514f52_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 DEEP HOUSE",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e35cb55bf5_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 DISCO",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 ERTUGRUL OZKOK",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 FM",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 GREEK",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e389058588_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 HEART",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e367972335_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 JAZZ",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3e06878b9_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 LOUNGE",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e37fbcb763_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 RNB",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3aecf0941_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 ROCK",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e39cae8c9c_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 SLOW",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3a53317d4_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK 90'LAR",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e325182420_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK AJDA PEKKAN",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ed520608_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK BARIS MANCO",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e408440a60_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK DAMAR",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ce2c120f_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK ELLER HAVAYA",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3303b3edf_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK FM",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK MEGASTAR",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e373ab0257_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK MINIK SERCE",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ffc12f95_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK ORHAN BABA",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3f6056c1e_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK RAP",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e42fe816a0_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK ROCK",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3c44cad10_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK SLOW",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e318b5ac09_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK UMC",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e392765b48_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 TURK ZEKI MUREN",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e411b40115_1/playlist.m3u8"
+			},
+			{
+				"name": "NUMBER 1 WORLD",
+				"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8"
+			},
+			{
+				"name": "OKSIJEN FM",
+				"url": "http://fm-66.canliyayinda.com:9020/;"
+			},
+			{
+				"name": "OLAY FM Antalya",
+				"url": "http://shoutcast.shemamedia.com:9030/olayfm"
+			},
+			{
+				"name": "ONUR RADYO",
+				"url": "https://anadolu.liderhost.com.tr/8094/stream"
+			},
+			{
+				"name": "OLTU SUPER RADYO",
+				"url": "http://yayin.netyayin.net:2534/;"
+			},
+			{
+				"name": "ORDU FM",
+				"url": "http://159.253.37.137:9926/stream"
+			},
+			{
+				"name": "ORDU FM",
+				"url": "https://vofile.ru/turkey/ordu_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "ORTACA FM",
+				"url": "http://live.radyotvonline.com:9100/;"
+			},
+			{
+				"name": "ORTACA FM",
+				"url": "https://radio-streaming.net/turkey/ortaca-fm/icecast.audio"
+			},
+			{
+				"name": "ORTACA FM",
+				"url": "https://radio-streaming.net/turkey/ortaca-fm/playlist.m3u8"
+			},
+			{
+				"name": "OSMANIYE RADYO 80",
+				"url": "http://yayin2.yayindakiler.com:4064/mp3"
+			},
+			{
+				"name": "OSMANIYE RADYO 80",
+				"url": "https://radio-streaming.net/turkey/radyo-80-osmaniye/icecast.audio"
+			},
+			{
+				"name": "OSMANIYE RADYO 80",
+				"url": "https://radio-streaming.net/turkey/radyo-80-osmaniye/playlist.m3u8"
+			},
+			{
+				"name": "OSTIM RADYO",
+				"url": "http://yayin.asymedya.com:8079/1;"
+			},
+			{
+				"name": "OSTIM RADYO",
+				"url": "https://vofile.ru/turkey/ostim-radyo/icecast.audio"
+			},
+			{
+				"name": "OSTIM RADYO",
+				"url": "https://vofile.ru/turkey/ostim-radyo/playlist.m3u8"
+			},
+			{
+				"name": "OMRUM FM",
+				"url": "https://ip169.ozelip.com:10770/;"
+			},
+			{
+				"name": "OMUR RADYO",
+				"url": "http://anadolu.liderhost.com.tr/9002/stream"
+			},
+			{
+				"name": "ONCU RADYO",
+				"url": "http://stream.taksimbilisim.com:8004/;"
+			},
+			{
+				"name": "OZEL FM",
+				"url": "http://85.95.248.111:8014/;"
+			},
+			{
+				"name": "OZGUR RADYO",
+				"url": "http://kesintisizyayin.com:1656/;"
+			},
+			{
+				"name": "OZGUR RADYO",
+				"url": "https://vofile.ru/turkey/ozgur_radyo/icecast.audio"
+			},
+			{
+				"name": "OZLEM FM",
+				"url": "http://yayin.turkiletisim.com.tr:1080/;"
+			},
+			{
+				"name": "PAL ALA",
+				"url": "http://shoutcast.radyogrup.com:3040/;"
+			},
+			{
+				"name": "PAL ALA",
+				"url": "https://radio-streaming.net/turkey/pal-ala-ankara/icecast.audio"
+			},
+			{
+				"name": "PAL ALA",
+				"url": "https://radio-streaming.net/turkey/pal-ala-ankara/playlist.m3u8"
+			},
+			{
+				"name": "PAL ALATURKA",
+				"url": "http://shoutcast.radyogrup.com:3050/;"
+			},
+			{
+				"name": "PAL ALATURKA",
+				"url": "https://vofile.ru/turkey/pal_alaturka/icecast.audio"
+			},
+			{
+				"name": "PAL ALATURKA",
+				"url": "https://vofile.ru/turkey/pal_alaturka/playlist.m3u8"
+			},
+			{
+				"name": "PAL BESK",
+				"url": "http://shoutcast.radyogrup.com:3010/;"
+			},
+			{
+				"name": "PAL BESK",
+				"url": "https://radio-streaming.net/turkey/pal-besk-istanbul/icecast.audio"
+			},
+			{
+				"name": "PAL BESK",
+				"url": "https://radio-streaming.net/turkey/pal-besk-istanbul/playlist.m3u8"
+			},
+			{
+				"name": "PAL DOGA",
+				"url": "http://shoutcast.radyogrup.com:1040/;"
+			},
+			{
+				"name": "PAL DOGA",
+				"url": "https://ssl4.radyotvonline.com/radyohome/paldogahome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "PAL FM",
+				"url": "http://shoutcast.radyogrup.com:1030/;"
+			},
+			{
+				"name": "PAL FM",
+				"url": "https://ssl4.radyotvonline.com/radyohome/palfmhome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "PAL FM",
+				"url": "https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8"
+			},
+			{
+				"name": "PAL LAGEND",
+				"url": "http://shoutcast.radyogrup.com:3030/;"
+			},
+			{
+				"name": "PAL LAGEND",
+				"url": "https://radio-streaming.net/turkey/pal-legend/icecast.audio"
+			},
+			{
+				"name": "PAL LAGEND",
+				"url": "https://radio-streaming.net/turkey/pal-legend/playlist.m3u8"
+			},
+			{
+				"name": "PAL MINA",
+				"url": "http://shoutcast.radyogrup.com:3070/;"
+			},
+			{
+				"name": "PAL NOSTALJI",
+				"url": "http://shoutcast.radyogrup.com:1010/;"
+			},
+			{
+				"name": "PAL NOSTALJI",
+				"url": "https://ssl4.radyotvonline.com/radyohome/palnostaljihome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "PAL NOSTALJI",
+				"url": "https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8"
+			},
+			{
+				"name": "PAL ORIENT",
+				"url": "http://shoutcast.radyogrup.com:1050/;"
+			},
+			{
+				"name": "PAL ORIENT",
+				"url": "https://ssl4.radyotvonline.com/radyohome/palorienthome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "PAL RABIA",
+				"url": "http://shoutcast.radyogrup.com:3000/;"
+			},
+			{
+				"name": "PAL SLOW",
+				"url": "http://shoutcast.radyogrup.com:2020/;"
+			},
+			{
+				"name": "PAL SLOW",
+				"url": "https://vofile.ru/turkey/pal_slow/icecast.audio"
+			},
+			{
+				"name": "PAL SLOW",
+				"url": "https://vofile.ru/turkey/pal_slow/playlist.m3u8"
+			},
+			{
+				"name": "PARK FM",
+				"url": "http://yayin.netradyom.com:8050/PARKFM/;"
+			},
+			{
+				"name": "PARK FM",
+				"url": "https://yayin5.radyohizmeti.com:10816/;"
+			},
+			{
+				"name": "PARK FM",
+				"url": "https://vofile.ru/turkey/PARK-FM/icecast.audio"
+			},
+			{
+				"name": "PARK FM",
+				"url": "https://vofile.ru/turkey/PARK-FM/playlist.m3u8"
+			},
+			{
+				"name": "PASA FM",
+				"url": "https://ssl123.ozelip.com:7013/;"
+			},
+			{
+				"name": "PAYLAS FM",
+				"url": "http://95.173.162.183:9868/;"
+			},
+			{
+				"name": "PAZAR GENC FM",
+				"url": "http://95.173.188.166:7194/;"
+			},
+			{
+				"name": "PAZARCIK FM",
+				"url": "https://anadolu.liderhost.com.tr:10936/;"
+			},
+			{
+				"name": "PAZARCIK FM",
+				"url": "http://yayin.pazarcikfm.com:9090/;"
+			},
+			{
+				"name": "PAZARCIK FM 2",
+				"url": "https://anadolu.liderhost.com.tr:10935/;"
+			},
+			{
+				"name": "PAZARCIK FM 2",
+				"url": "http://yayin.pazarcikfm.com/9092/;"
+			},
+			{
+				"name": "PAZARCIK FM 3",
+				"url": "https://anadolu.liderhost.com.tr:10934/;"
+			},
+			{
+				"name": "PAZARCIK FM 3",
+				"url": "http://radyo.pazarcikfm.com/9094/;"
+			},
+			{
+				"name": "PINAR FM Sakarya",
+				"url": "http://95.173.162.182:9882/;"
+			},
+			{
+				"name": "PINAR FM Sakarya",
+				"url": "https://radio-streaming.net/turkey/pinar-fm-sakarya/icecast.audio"
+			},
+			{
+				"name": "PINAR FM Sakarya",
+				"url": "https://radio-streaming.net/turkey/pinar-fm-sakarya/playlist.m3u8"
+			},
+			{
+				"name": "PLAY FM",
+				"url": "http://live.playfm.com.tr:9050/;stream/1"
+			},
+			{
+				"name": "PODNET RADYO",
+				"url": "https://radyo1.radyo-dinle.tc:7046/;"
+			},
+			{
+				"name": "POP90",
+				"url": "https://18463.live.streamtheworld.com/POP90128AAC.aac"
+			},
+			{
+				"name": "POP HOME",
+				"url": "https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8"
+			},
+			{
+				"name": "POP HOME",
+				"url": "https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "POPLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8"
+			},
+			{
+				"name": "POPULER FM",
+				"url": "https://anadolu.liderhost.com.tr:10919/;"
+			},
+			{
+				"name": "POPULER FM",
+				"url": "http://37.59.205.232:9344/;"
+			},
+			{
+				"name": "POWER DANCE",
+				"url": "https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8"
+			},
+			{
+				"name": "POWER DEEP",
+				"url": "https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/playlist.m3u8"
+			},
+			{
+				"name": "POWER FM",
+				"url": "https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8"
+			},
+			{
+				"name": "POWER GREECE",
+				"url": "https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/playlist.m3u8"
+			},
+			{
+				"name": "POWER GOLD",
+				"url": "https://listen.powerapp.com.tr/powergold/abr/powergold/128/playlist.m3u8"
+			},
+			{
+				"name": "POWER LOVE",
+				"url": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8"
+			},
+			{
+				"name": "POWER POP",
+				"url": "https://listen.powerapp.com.tr/powerpop/abr/powerpop/128/playlist.m3u8"
+			},
+			{
+				"name": "POWER PLUS",
+				"url": "https://listen.powerapp.com.tr/powerplus/abr/powerplus/128/playlist.m3u8"
+			},
+			{
+				"name": "POWER SMOOTH JAZZ",
+				"url": "https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8"
+			},
+			{
+				"name": "POWER XL",
+				"url": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/128/playlist.m3u8"
+			},
+			{
+				"name": "POWERTURK AKUSTIK",
+				"url": "https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlist.m3u8"
+			},
+			{
+				"name": "POWERTURK DANS",
+				"url": "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8"
+			},
+			{
+				"name": "POWERTURK EN IYILER",
+				"url": "https://listen.powerapp.com.tr/powerturkeniyiler/abr/powerturkeniyiler/128/playlist.m3u8"
+			},
+			{
+				"name": "POWERTURK EFSANE",
+				"url": "https://listen.powerapp.com.tr/powerturkefsane/abr/powerturkefsane/128/playlist.m3u8"
+			},
+			{
+				"name": "POWERTURK FM",
+				"url": "https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8"
+			},
+			{
+				"name": "POWERTURK RAP",
+				"url": "https://listen.powerapp.com.tr/powerturkrap/abr/powerturkrap/128/playlist.m3u8"
+			},
+			{
+				"name": "POWERTURK TAPTAZE",
+				"url": "https://listen.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/128/playlist.m3u8"
+			},
+			{
+				"name": "RADIO 5",
+				"url": "https://radiotrc.80.yayin.com.tr/stream"
+			},
+			{
+				"name": "RADIO 5 Legend",
+				"url": "http://radiocom.80.yayin.com.tr/stream"
+			},
+			{
+				"name": "RADIO BEATBOX",
+				"url": "http://dijimedya.radyotvonline.net/radiobeatbox"
+			},
+			{
+				"name": "RADIO FIRAT FM",
+				"url": "https://anadolu.liderhost.com.tr:10913/;"
+			},
+			{
+				"name": "RADIO IBRE",
+				"url": "https://anadolu.liderhost.com.tr:10902/;"
+			},
+			{
+				"name": "RADIO LIFE",
+				"url": "http://yayin2.canliyayin.org:8698/;"
+			},
+			{
+				"name": "RADIO LIFE",
+				"url": "https://radio-streaming.net/turkey/radio-life-kayseri/icecast.audio"
+			},
+			{
+				"name": "RADIO LIFE",
+				"url": "https://radio-streaming.net/turkey/radio-life-kayseri/playlist.m3u8"
+			},
+			{
+				"name": "RADIO MYDONOSE",
+				"url": "https://23603.live.streamtheworld.com/SC010_SO1AAC.aac"
+			},
+			{
+				"name": "RADIO NET",
+				"url": "https://anadolu.liderhost.com.tr:10983/;"
+			},
+			{
+				"name": "RADIO NET ARABESK",
+				"url": "https://anadolu.liderhost.com.tr:10981/;"
+			},
+			{
+				"name": "RADIO NET DANCE",
+				"url": "https://anadolu.liderhost.com.tr:10982/;"
+			},
+			{
+				"name": "RADIO NET LOWE",
+				"url": "https://anadolu.liderhost.com.tr:10979/;"
+			},
+			{
+				"name": "RADIO SYON FM",
+				"url": "https://anadolu.liderhost.com.tr:10989/;"
+			},
+			{
+				"name": "RADYO 06",
+				"url": "http://46.20.7.100/stream/72/"
+			},
+			{
+				"name": "RADYO 06",
+				"url": "https://radio-streaming.net/turkey/radyo-06-ankara/icecast.audio"
+			},
+			{
+				"name": "RADYO 06",
+				"url": "https://radio-streaming.net/turkey/radyo-06-ankara/playlist.m3u8"
+			},
+			{
+				"name": "RADYO 08",
+				"url": "http://yayin.netyayin.net:8008/;"
+			},
+			{
+				"name": "RADYO 3 HILAL",
+				"url": "http://uchilal.com:8000/live"
+			},
+			{
+				"name": "RADYO 3 HILAL",
+				"url": "https://vofile.ru/turkey/radyo-3-hilal/icecast.audio"
+			},
+			{
+				"name": "RADYO 3 HILAL",
+				"url": "https://vofile.ru/turkey/radyo-3-hilal/playlist.m3u8"
+			},
+			{
+				"name": "RADYO 7",
+				"url": "http://46.20.3.250/;"
+			},
+			{
+				"name": "RADYO 7",
+				"url": "http://46.20.3.251/stream/169/"
+			},
+			{
+				"name": "RADYO 7",
+				"url": "http://radyo7hls.radyotvonline.net/radyo7/radyo7_test.stream/playlist.m3u8"
+			},
+			{
+				"name": "RADYO 7",
+				"url": "https://ssl4.radyotvonline.com/radyo7/radyo7_home.stream/playlist.m3u8"
+			},
+			{
+				"name": "RADYO 10",
+				"url": "http://yayin.turkhosted.com:6038/;stream.nsv"
+			},
+			{
+				"name": "RADYO 10",
+				"url": "https://ssl123.ozelip.com:7048/;"
+			},
+			{
+				"name": "RADYO 13",
+				"url": "http://yayin1.yayindakiler.com:3050/;"
+			},
+			{
+				"name": "RADYO 23",
+				"url": "http://radyofm23.canliyayinda.com:8280/;"
+			},
+			{
+				"name": "RADYO 32",
+				"url": "http://95.173.188.155:9966/;"
+			},
+			{
+				"name": "RADYO 34",
+				"url": "http://yayin2.canliyayin.org:7424/;"
+			},
+			{
+				"name": "RADYO 34",
+				"url": "https://yayin2.canliyayin.org:10959/;"
+			},
+			{
+				"name": "RADYO 34",
+				"url": "https://vofile.ru/turkey/radyo_34/icecast.audio"
+			},
+			{
+				"name": "RADYO 34",
+				"url": "https://vofile.ru/turkey/radyo_34/playlist.m3u8"
+			},
+			{
+				"name": "RADYO 35",
+				"url": "https://stream01.radyo35.com.tr/radyo35"
+			},
+			{
+				"name": "RADYO 37",
+				"url": "http://yayin1.yayindakiler.com:3192/;"
+			},
+			{
+				"name": "RADYO 38",
+				"url": "https://anadolu.liderhost.com.tr:10892/;"
+			},
+			{
+				"name": "RADYO 39",
+				"url": "http://185.98.62.130:32227/;"
+			},
+			{
+				"name": "RADYO 44",
+				"url": "http://radyo44.80.yayin.com.tr/;"
+			},
+			{
+				"name": "RADYO 52",
+				"url": "https://anadolu.liderhost.com.tr:10957/;"
+			},
+			{
+				"name": "RADYO 52",
+				"url": "http://37.59.205.232:6052/;"
+			},
+			{
+				"name": "RADYO 71",
+				"url": "http://radyo.yayin.com.tr:5924/stream/;"
+			},
+			{
+				"name": "RADYO 80",
+				"url": "http://yayin2.yayindakiler.com:4064/;"
+			},
+			{
+				"name": "RADYO 81",
+				"url": "http://yayin.turkhosted.com:3030/;"
+			},
+			{
+				"name": "RADYO 81",
+				"url": "http://radyo.radyo81.com:3030/;stream.mp3"
+			},
+			{
+				"name": "RADYO 90",
+				"url": "http://46.20.7.100/stream/78/"
+			},
+			{
+				"name": "RADYO 2000",
+				"url": "http://broadcasttr.com:8004/;"
+			},
+			{
+				"name": "RADYO 2000",
+				"url": "http://stream.taksimbilisim.com:8004/;"
+			},
+			{
+				"name": "RADYO 2000",
+				"url": "https://vofile.ru/turkey/radyo2000_90_6/icecast.audio"
+			},
+			{
+				"name": "RADYO 2000",
+				"url": "https://vofile.ru/turkey/radyo2000_90_6/playlist.m3u8"
+			},
+			{
+				"name": "RADYO 2000 Elazig",
+				"url": "http://95.173.188.166:9310/;stream.nsv"
+			},
+			{
+				"name": "RADYO 2000 Elazig",
+				"url": "https://vofile.ru/turkey/radyo_2000_elazig_dinle/icecast.audio"
+			},
+			{
+				"name": "RADYO 2000 Elazig",
+				"url": "https://vofile.ru/turkey/radyo_2000_elazig_dinle/playlist.m3u8"
+			},
+			{
+				"name": "RADYO 2000 Erzincan",
+				"url": "http://yayin1.yayindakiler.com:3030/;"
+			},
+			{
+				"name": "RADYO 2000 Erzincan",
+				"url": "https://radio-streaming.net/turkey/kastamonu-fm/icecast.audio"
+			},
+			{
+				"name": "RADYO 2000 Erzincan",
+				"url": "https://radio-streaming.net/turkey/kastamonu-fm/playlist.m3u8"
+			},
+			{
+				"name": "RADYO 2000 FM Istanbul",
+				"url": "http://radyo2000.radyomhd.com:1100/;"
+			},
+			{
+				"name": "RADYO 2000 FM Istanbul",
+				"url": "https://vofile.ru/turkey/radyo_2000_fm_istanbul/icecast.audio"
+			},
+			{
+				"name": "RADYO 2000 FM Istanbul",
+				"url": "https://vofile.ru/turkey/radyo_2000_fm_istanbul/playlist.m3u8"
+			},
+			{
+				"name": "RADYO 2000 FM Osmaniye",
+				"url": "http://sslyayin.netyayin.net:8006/;"
+			},
+			{
+				"name": "RADYO 2000 FM Osmaniye",
+				"url": "https://sslyayin.netyayin.net:10915/;"
+			},
+			{
+				"name": "RADYO A",
+				"url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3"
+			},
+			{
+				"name": "RADYO A",
+				"url": "https://listen.powerapp.com.tr/radyoa/mpeg/icecast.audio"
+			},
+			{
+				"name": "RADYO ACTIVE",
+				"url": "http://yayin1.yayindakiler.com:3164/;"
+			},
+			{
+				"name": "RADYO ADA",
+				"url": "https://radyo.arkacadde.org/9998/adaradyo.mp3"
+			},
+			{
+				"name": "RADYO AFET",
+				"url": "https://anadolu.liderhost.com.tr:10889/;"
+			},
+			{
+				"name": "RADYO AHMET KAYA",
+				"url": "http://ahmetkaya.canliyayinda.com:9999/;"
+			},
+			{
+				"name": "RADYO AHMET KAYA",
+				"url": "http://dinle.ahmetkaya.biz:9999/;stream/1"
+			},
+			{
+				"name": "RADYO AK",
+				"url": "http://radyoak.canliyayinda.com:8026/;"
+			},
+			{
+				"name": "RADYO AKDENIZ Antalya",
+				"url": "http://95.173.162.188:9310/;"
+			},
+			{
+				"name": "RADYO AKDENIZ Antalya",
+				"url": "https://vofile.ru/turkey/radyo_akdeniz_antalya/icecast.audio"
+			},
+			{
+				"name": "RADYO AKDENIZ Antalya",
+				"url": "https://vofile.ru/turkey/radyo_akdeniz_antalya/playlist.m3u8"
+			},
+			{
+				"name": "RADYO AKDENIZ Mersin",
+				"url": "http://95.173.162.186:9778/;"
+			},
+			{
+				"name": "RADYO AKDENIZ Mersin",
+				"url": "https://vofile.ru/turkey/radyo_akdeniz_mersin/icecast.audio"
+			},
+			{
+				"name": "RADYO AKDENIZ Mersin",
+				"url": "https://vofile.ru/turkey/radyo_akdeniz_mersin/playlist.m3u8"
+			},
+			{
+				"name": "RADYO ALATURKA",
+				"url": "http://stream.radyoalaturka.com.tr:9100/;"
+			},
+			{
+				"name": "RADYO ALATURKA",
+				"url": "https://vofile.ru/turkey/radyo_alaturka/icecast.audio"
+			},
+			{
+				"name": "RADYO ALATURKA",
+				"url": "https://vofile.ru/turkey/radyo_alaturka/playlist.m3u8"
+			},
+			{
+				"name": "RADYO ALIS",
+				"url": "https://anadolu.liderhost.com.tr:10946/;"
+			},
+			{
+				"name": "RADYO ALPERENCE",
+				"url": "https://anadolu.liderhost.com.tr:10932/;"
+			},
+			{
+				"name": "RADYO ARABESK",
+				"url": "https://yayin.radyoarabesk.com.tr:8000/stream"
+			},
+			{
+				"name": "RADYO ARABESK iNFO",
+				"url": "http://radyoarabesk.info:9700/;"
+			},
+			{
+				"name": "RADYO ARKADAS",
+				"url": "https://ssl120.radyotelekom.com.tr/9998/stream"
+			},
+			{
+				"name": "RADYO ASYA Hatay",
+				"url": "http://sunucu.radyodinle.com:9850/;"
+			},
+			{
+				"name": "RADYO ASYA Hatay",
+				"url": "https://vofile.ru/turkey/asya_radyo_dinle/icecast.audio"
+			},
+			{
+				"name": "RADYO ASYA Hatay",
+				"url": "https://vofile.ru/turkey/asya_radyo_dinle/playlist.m3u8"
+			},
+			{
+				"name": "RADYO AWAZ",
+				"url": "https://ssl123.ozelip.com:7016/;"
+			},
+			{
+				"name": "RADYO AYNA",
+				"url": "http://yayin.yasamhosting.com.tr:9994/;"
+			},
+			{
+				"name": "RADYO AYVALIK",
+				"url": "https://radyo1.radyo-dinle.tc:7002/;"
+			},
+			{
+				"name": "RADYO AZELYA",
+				"url": "http://yayin.yayindakiler.com:3012/;stream.mp3"
+			},
+			{
+				"name": "RADYO BANKO",
+				"url": "http://yayin.netradyom.com:9910/RADYOBANKO;"
+			},
+			{
+				"name": "RADYO BANKO",
+				"url": "https://yayin5.radyohizmeti.com:10817/;stream"
+			},
+			{
+				"name": "RADYO BARIS",
+				"url": "http://sunucu.radyodinle.com:8510/;stream.mp3"
+			},
+			{
+				"name": "RADYO BASAKSEHIR",
+				"url": "https://icecast.netmedya.net/rbasaksehir"
+			},
+			{
+				"name": "RADYO BASKENT",
+				"url": "http://212.174.58.161:8000/1042"
+			},
+			{
+				"name": "RADYO BASKENT",
+				"url": "https://listen.powerapp.com.tr/radyobaskent/mpeg/icecast.audio"
+			},
+			{
+				"name": "RADYO BEKTAS",
+				"url": "https://anadolu.liderhost.com.tr:10874/;"
+			},
+			{
+				"name": "RADYO BESK GIRESUN",
+				"url": "http://radyo.yayin.com.tr:4064/;"
+			},
+			{
+				"name": "RADYO BEYAZ",
+				"url": "http://31.6.86.17:8010/;stream.mp3"
+			},
+			{
+				"name": "RADYO BEYAZ",
+				"url": "https://vofile.ru/turkey/beyaz-94-2-dinle/icecast.audio"
+			},
+			{
+				"name": "RADYO BEYAZ",
+				"url": "https://vofile.ru/turkey/beyaz-94-2-dinle/playlist.m3u8"
+			},
+			{
+				"name": "RADYO BEYKOZ",
+				"url": "http://95.173.188.155:9944/;"
+			},
+			{
+				"name": "RADYO BEYKOZ",
+				"url": "https://anadolu.liderhost.com.tr:10951/;"
+			},
+			{
+				"name": "RADYO BILIM",
+				"url": "http://gitassi.com:8750/;"
+			},
+			{
+				"name": "RADYO BILKENT",
+				"url": "https://listen.powerapp.com.tr/radyobilkent/mpeg/icecast.audio"
+			},
+			{
+				"name": "RADYO BIZBIZE 09",
+				"url": "https://anadolu.liderhost.com.tr:10953/;"
+			},
+			{
+				"name": "RADYO BORA",
+				"url": "http://yayin.radyobora.net:9310/;"
+			},
+			{
+				"name": "RADYO BSR",
+				"url": "https://anadolu.liderhost.com.tr:10962/;"
+			},
+			{
+				"name": "RADYO BUSEM",
+				"url": "https://anadolu.liderhost.com.tr:10882/;"
+			},
+			{
+				"name": "RADYO CANKI",
+				"url": "https://anadolu.liderhost.com.tr:10931/;"
+			},
+			{
+				"name": "RADYO CAGDAS",
+				"url": "http://sr1.netmedya.org:443/radyocagdas"
+			},
+			{
+				"name": "RADYO CANAKKALE",
+				"url": "http://95.173.185.128:9332/;"
+			},
+			{
+				"name": "RADYO CETIN",
+				"url": "http://www.radyocetin.com:9304/;"
+			},
+			{
+				"name": "RADYO CINAR",
+				"url": "http://sunucu.radyodinle.com:7634/;"
+			},
+			{
+				"name": "RADYO CILEK 74",
+				"url": "http://94.102.5.18:9944/;"
+			},
+			{
+				"name": "RADYO D",
+				"url": "https://radyo.duhnet.tv/radyod"
+			},
+			{
+				"name": "RADYO DADAS",
+				"url": "http://kesintisizyayin.com:1656/;"
+			},
+			{
+				"name": "RADYO DEHA",
+				"url": "http://stream.taksimbilisim.com:8020/;"
+			},
+			{
+				"name": "RADYO DELTA",
+				"url": "https://anadolu.liderhost.com.tr:10954/;"
+			},
+			{
+				"name": "RADYO DENGE",
+				"url": "https://anadolu.liderhost.com.tr:10930/;"
+			},
+			{
+				"name": "RADYO DENIZ Inegol",
+				"url": "http://yayin2.yayindakiler.com:4152/;"
+			},
+			{
+				"name": "RADYO DILARA Antalya",
+				"url": "http://yayin1.canliyayin.org:7878/;"
+			},
+			{
+				"name": "RADYO DOGUS",
+				"url": "http://sunucu.radyodinle.com:4016/;"
+			},
+			{
+				"name": "RADYO DORUK",
+				"url": "https://yayin5.radyohizmeti.com/8034//;stream"
+			},
+			{
+				"name": "RADYO DOST FM",
+				"url": "https://anadolu.liderhost.com.tr:10884/;"
+			},
+			{
+				"name": "RADYO DUBLE",
+				"url": "https://anadolu.liderhost.com.tr:10894/;"
+			},
+			{
+				"name": "RADYO DUMLUPINAR",
+				"url": "http://95.173.161.131:9856/;"
+			},
+			{
+				"name": "RADYO DUYGU",
+				"url": "http://95.173.162.181:5050/;"
+			},
+			{
+				"name": "RADYO DUYGUSAL",
+				"url": "http://95.173.188.155:9596/;"
+			},
+			{
+				"name": "RADYO DUYGUSAL",
+				"url": "https://player.web.tr/listen/20e42cb2835b7e86a72a1e9e0f06d2dd"
+			},
+			{
+				"name": "RADYO EFLATUN",
+				"url": "https://radyo1.radyo-dinle.tc:7037/;"
+			},
+			{
+				"name": "RADYO EGE",
+				"url": "http://stream2.taksimbilisim.com:8010/;"
+			},
+			{
+				"name": "RADYO EGE",
+				"url": "https://radio-streaming.net/turkey/radyo-ege-izmir/icecast.audio"
+			},
+			{
+				"name": "RADYO EGE",
+				"url": "https://radio-streaming.net/turkey/radyo-ege-izmir/playlist.m3u8"
+			},
+			{
+				"name": "RADYO EGE KAMPUS",
+				"url": "https://stream.ege.edu.tr/live/radyo/playlist.m3u8"
+			},
+			{
+				"name": "RADYO EGENIN SESI",
+				"url": "http://dijimedya.radyotvonline.net/radyoegeninsesi"
+			},
+			{
+				"name": "RADYO EHLIBEYT",
+				"url": "http://51.77.72.72:7532/;"
+			},
+			{
+				"name": "RADYO EKO",
+				"url": "https://17773.live.streamtheworld.com/RD_EKOAAC.aac"
+			},
+			{
+				"name": "RADYO EKSEN",
+				"url": "http://eksenwmp.radyotvonline.com/;"
+			},
+			{
+				"name": "RADYO EKSEN",
+				"url": "https://ssldyg.radyotvonline.com/pozitif/smil:eksen.smil/playlist.m3u8"
+			},
+			{
+				"name": "RADYO EN Konya",
+				"url": "http://yayin2.canliyayin.org:7222/;"
+			},
+			{
+				"name": "RADYO ENERJI",
+				"url": "https://trkvz-radyolar.ercdn.net/radyoenergy/playlist.m3u8"
+			},
+			{
+				"name": "RADYO ENGELSIZ ERISIM",
+				"url": "https://radyo1.radyo-dinle.tc:7034/;"
+			},
+			{
+				"name": "RADYO ERKAN",
+				"url": "http://sunucu2.radyolarburada.com:8095/;"
+			},
+			{
+				"name": "RADYO ES Almanya",
+				"url": "http://radyoes.kesintisizyayin.com:7216/;"
+			},
+			{
+				"name": "RADYO EXRA",
+				"url": "http://46.105.35.48:9340/;"
+			},
+			{
+				"name": "RADYO FENERBAHCE",
+				"url": "http://91.232.174.18:8000/Stream"
+			},
+			{
+				"name": "RADYO FENERBAHCE",
+				"url": "ttps://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "RADYO FIRAT",
+				"url": "http://radyofirat.radyotvyayini.com:8920/;"
+			},
+			{
+				"name": "RADYO FIGAN",
+				"url": "https://anadolu.liderhost.com.tr:10872/;"
+			},
+			{
+				"name": "RADYO FLASH",
+				"url": "https://sslyayin.netyayin.net/2384/stream"
+			},
+			{
+				"name": "RADYO FLASH Aydin",
+				"url": "http://yayin2.yayindakiler.com:4096/;"
+			},
+			{
+				"name": "RADYO FLASH Aydin",
+				"url": "http://yayin.yayindakiler.com:4096/;"
+			},
+			{
+				"name": "RADYO FON",
+				"url": "http://sunucu.radyodinle.com:9188/;"
+			},
+			{
+				"name": "RADYO FSM",
+				"url": "http://yayin2.canliyayin.org:8050/;"
+			},
+			{
+				"name": "RADYO FULL",
+				"url": "http://radyofullhd.canliyayinda.com:8050/;"
+			},
+			{
+				"name": "RADYO GALATA",
+				"url": "https://anadolu.liderhost.com.tr:10956/;"
+			},
+			{
+				"name": "RADYO GEDIK",
+				"url": "https://radyo-g.gedik.edu.tr/stream.mp3"
+			},
+			{
+				"name": "RADYO GENCLIK",
+				"url": "http://radyogenclik.com:9900/;"
+			},
+			{
+				"name": "RADYO GERCEK SAMSUN",
+				"url": "http://185.98.62.130:35257/;"
+			},
+			{
+				"name": "RADYO GIREBI",
+				"url": "https://ssl123.ozelip.com:7033/;"
+			},
+			{
+				"name": "RADYO GIREBI",
+				"url": "https://ssl123.ozelip.com/8066/;"
+			},
+			{
+				"name": "RADYO GIZ FM",
+				"url": "https://sp.radyotescil.com/8028/;"
+			},
+			{
+				"name": "RADYO GOL",
+				"url": "https://moondigitalmaster.radyotvonline.net/radyogol/playlist.m3u8"
+			},
+			{
+				"name": "RADYO GOZDE",
+				"url": "http://yayin1.yayindakiler.com:3056/;"
+			},
+			{
+				"name": "RADYO GUL",
+				"url": "http://yayin2.canliyayin.org:8866/;"
+			},
+			{
+				"name": "RADYO GULUSTAN",
+				"url": "http://37.59.205.232:9320/;"
+			},
+			{
+				"name": "RADYO GULUSTAN",
+				"url": "https://anadolu.liderhost.com.tr:10967/;"
+			},
+			{
+				"name": "RADYO GUNBATI",
+				"url": "http://radyogunbati.ozelip.com:9890/;"
+			},
+			{
+				"name": "RADYO GUNDEM",
+				"url": "http://sr1.netmedya.org:10542/;"
+			},
+			{
+				"name": "RADYO GUNEY",
+				"url": "http://sunucu2.radyolarburada.com:9920/;"
+			},
+			{
+				"name": "RADYO HABER",
+				"url": "http://yayin.yayindakiler.com:4118/;"
+			},
+			{
+				"name": "RADYO HACETTEPE",
+				"url": "http://193.140.237.20:8000/;"
+			},
+			{
+				"name": "RADYO HALIKARNAS",
+				"url": "https://17733.live.streamtheworld.com/RD_HALIKARNASAAC.aac"
+			},
+			{
+				"name": "RADYO HAMSI",
+				"url": "http://radyo.hamsi.fm:8050/;"
+			},
+			{
+				"name": "RADYO HAN",
+				"url": "http://yayin2.yayindakiler.com:4128/;"
+			},
+			{
+				"name": "RADYO HATIM",
+				"url": "https://anadolu.liderhost.com.tr:10998/;"
+			},
+			{
+				"name": "RADYO HAYAT",
+				"url": "http://live4.radyotvonline.com:9450/;"
+			},
+			{
+				"name": "RADYO HILTON",
+				"url": "https://radyo1.radyo-dinle.tc:7001/;"
+			},
+			{
+				"name": "RADYO HIRAS",
+				"url": "http://yayin.radyohiras.com:9080/;"
+			},
+			{
+				"name": "RADYO ILAC",
+				"url": "http://95.173.184.20:9798/;"
+			},
+			{
+				"name": "RADYO ILAHI",
+				"url": "https://anadolu.liderhost.com.tr:10994/;"
+			},
+			{
+				"name": "RADYO iLAHi",
+				"url": "http://RADiOiLAHi.COM:9600"
+			},
+			{
+				"name": "RADYO iLAHi Kurtce",
+				"url": "http://RADYOiLAHi.ORG:9200"
+			},
+			{
+				"name": "RADYO ILKE",
+				"url": "https://ssl120.radyotelekom.com.tr:10681/;"
+			},
+			{
+				"name": "RADYO IMPARATOR",
+				"url": "http://radyo.yayin.com.tr:4012/;stream.mp3"
+			},
+			{
+				"name": "RADYO IMZA",
+				"url": "https://anadolu.liderhost.com.tr:10952/;"
+			},
+			{
+				"name": "RADYO INTIZAR",
+				"url": "http://dijimedya.radyotvonline.net/radyointizar"
+			},
+			{
+				"name": "RADYO IZMIR FM",
+				"url": "http://usa4.fastcast4u.com:5414/;"
+			},
+			{
+				"name": "RADYO IZMIT",
+				"url": "http://yayin1.yayindakiler.com:3074/;"
+			},
+			{
+				"name": "RADYO K",
+				"url": "http://yayin2.canliyayin.org:8200/;"
+			},
+			{
+				"name": "RADYO KABE",
+				"url": "https://anadolu.liderhost.com.tr:10955/;"
+			},
+			{
+				"name": "RADYO KACKAR",
+				"url": "https://ssl120.radyotelekom.com.tr/8678/stream"
+			},
+			{
+				"name": "RADYO KALPLERIN SESI",
+				"url": "https://anadolu.liderhost.com.tr:10873/;"
+			},
+			{
+				"name": "RADYO KARABALI",
+				"url": "http://95.173.162.182:9884/;"
+			},
+			{
+				"name": "RADYO KARADENIZ",
+				"url": "https://radyo1.radyo-dinle.tc:7041"
+			},
+			{
+				"name": "RADYO KENT",
+				"url": "https://radyo1.radyo-dinle.tc:7060/;"
+			},
+			{
+				"name": "RADYO KI",
+				"url": "http://radyoki.kocaeli.edu.tr:8000/;"
+			},
+			{
+				"name": "RADYO KORDELYA",
+				"url": "http://38.96.148.39:8646/;"
+			},
+			{
+				"name": "RADYO KULUP 95.5 Zonguldak",
+				"url": "https://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/playlist.m3u8"
+			},
+			{
+				"name": "RADYO KURAN",
+				"url": "https://anadolu.liderhost.com.tr:10995/;"
+			},
+			{
+				"name": "RADYO LINE",
+				"url": "http://radioline.fm:8000/;"
+			},
+			{
+				"name": "RADYO LINE",
+				"url": "http://37.247.114.250:8000/;"
+			},
+			{
+				"name": "RADYO LINE",
+				"url": "https://vofile.ru/turkey/radio_line_dinle/icecast.audio"
+			},
+			{
+				"name": "RADYO LINE",
+				"url": "https://vofile.ru/turkey/radio_line_dinle/playlist.m3u8"
+			},
+			{
+				"name": "RADYO LMK",
+				"url": "http://95.173.188.156:9784/;"
+			},
+			{
+				"name": "RADYO LOVE",
+				"url": "https://anadolu.liderhost.com.tr:10997/;"
+			},
+			{
+				"name": "RADYO MAKARA",
+				"url": "http://95.173.188.166:9500/;"
+			},
+			{
+				"name": "RADYO MAKARA",
+				"url": "https://ip169.ozelip.com:10998/;"
+			},
+			{
+				"name": "RADYO MANAVGAT",
+				"url": "http://sunucu.radyodinle.com:8355/;"
+			},
+			{
+				"name": "RADYO MASTIKA",
+				"url": "http://radyo.yayin.com.tr:5950/;"
+			},
+			{
+				"name": "RADYO MAVI",
+				"url": "http://sunucu.radyodinle.com:8070/;"
+			},
+			{
+				"name": "RADYO MEAL",
+				"url": "https://anadolu.liderhost.com.tr:10993/;"
+			},
+			{
+				"name": "RADYO MEDYA Inegol",
+				"url": "http://95.173.184.17:9954/;"
+			},
+			{
+				"name": "RADYO MEGA",
+				"url": "http://radyomega.ozelip.com:8210/;"
+			},
+			{
+				"name": "RADYO MEGA Sakarya",
+				"url": "http://95.173.188.155:7788/;"
+			},
+			{
+				"name": "RADYO MEGASITE",
+				"url": "http://mega.netradyom.com:7900/;"
+			},
+			{
+				"name": "RADYO MEGASITE",
+				"url": "http://yayin.netradyom.com:7900/;stream.mp3"
+			},
+			{
+				"name": "RADYO MEGASITE",
+				"url": "https://vofile.ru/turkey/radyo_megasite/icecast.audio"
+			},
+			{
+				"name": "RADYO MEGASITE",
+				"url": "https://vofile.ru/turkey/radyo_megasite/playlist.m3u8"
+			},
+			{
+				"name": "RADYO MEGASTAR",
+				"url": "http://95.173.188.166:9902/;"
+			},
+			{
+				"name": "RADYO MERCAN",
+				"url": "http://yayin2.canliyayin.org:8400/;"
+			},
+			{
+				"name": "RADYO MESALE",
+				"url": "http://yayin.yayindakiler.com:3158/;"
+			},
+			{
+				"name": "RADYO METROPOL",
+				"url": "http://sunucu2.radyolarburada.com:5544/;"
+			},
+			{
+				"name": "RADYO MEYDAN",
+				"url": "https://sp.radyotescil.com/8038/;stream"
+			},
+			{
+				"name": "RADYO MIDAS",
+				"url": "https://ip169.ozelip.com/8012/stream"
+			},
+			{
+				"name": "RADYO MIX",
+				"url": "http://radyo.yayin.com.tr:4050/stream/2/;"
+			},
+			{
+				"name": "RADYO MODOKO",
+				"url": "https://sslyayin.radyoyayini.com:7002/;"
+			},
+			{
+				"name": "RADYO MUGLA",
+				"url": "http://yayin.yayindakiler.com:3006/;"
+			},
+			{
+				"name": "RADYO MUGLA",
+				"url": "https://vofile.ru/turkey/ornek_radyo/icecast.audio"
+			},
+			{
+				"name": "RADYO MUGLA",
+				"url": "https://vofile.ru/turkey/ornek_radyo/playlist.m3u8"
+			},
+			{
+				"name": "RADYO MUHABBET",
+				"url": "https://radyo1.radyo-dinle.tc:7051/;"
+			},
+			{
+				"name": "RADYO MUSIKI",
+				"url": "http://46.20.4.108/Stream8"
+			},
+			{
+				"name": "RADYO MUSIKI",
+				"url": "http://dijimedya.radyotvonline.net/radyomusiki"
+			},
+			{
+				"name": "RADYO NET Adapazari",
+				"url": "https://ssl-radyo.yayin.com.tr:9990/;"
+			},
+			{
+				"name": "RADYO NIKOMEDYA",
+				"url": "http://yayin.netyayin.net:2631/;"
+			},
+			{
+				"name": "RADYO NISBET",
+				"url": "https://anadolu.liderhost.com.tr:10875/;"
+			},
+			{
+				"name": "RADYO ODTU CANLI",
+				"url": "https://stream.radyoodtu.com.tr/canli;"
+			},
+			{
+				"name": "RADYO ODTU EASY",
+				"url": "https://stream.radyoodtu.com.tr/easy;"
+			},
+			{
+				"name": "RADYO ODTU HIT",
+				"url": "https://stream.radyoodtu.com.tr/hit;"
+			},
+			{
+				"name": "RADYO ODTU KARISIK KASET",
+				"url": "https://stream.radyoodtu.com.tr/karisikkaset;"
+			},
+			{
+				"name": "RADYO ODTU ROCK",
+				"url": "http://stream.radyoodtu.com.tr/rock;"
+			},
+			{
+				"name": "RADYO ON",
+				"url": "http://yayin.turkhosted.com:6038/;"
+			},
+			{
+				"name": "RADYO ONLINE TURK",
+				"url": "https://anadolu.liderhost.com.tr:10960/;"
+			},
+			{
+				"name": "RADYO ORJINAL",
+				"url": "https://anadolu.liderhost.com.tr:10938/;"
+			},
+			{
+				"name": "RADYO OTOMOBIL",
+				"url": "http://srv2.streaming-ingenierie.fr:8160/;"
+			},
+			{
+				"name": "RADYO PEGAL Biga",
+				"url": "http://sunucu.radyodinle.com:8770/;"
+			},
+			{
+				"name": "RADYO PLAY",
+				"url": "http://radyo1.radyo-dinle.tc:8036/;stream.mp3"
+			},
+			{
+				"name": "RADYO POLAT",
+				"url": "https://sslyayin.radyoyayini.com:7001/;"
+			},
+			{
+				"name": "RADYO POP",
+				"url": "http://80.radyopop.com/stream/1/"
+			},
+			{
+				"name": "RADYO RITM",
+				"url": "http://radyo.yayin.com.tr:8091/;"
+			},
+			{
+				"name": "RADYO RUMELIM",
+				"url": "http://radyorumelim.canliyayinda.com:8690/;"
+			},
+			{
+				"name": "RADYO SAHIL",
+				"url": "http://www.radyosahil.com.tr:8000/radyosahil.ogg"
+			},
+			{
+				"name": "RADYO SAMSUN",
+				"url": "https://radyosam.80.yayin.com.tr/;"
+			},
+			{
+				"name": "RADYO SANAT MUZIGI",
+				"url": "http://radyo.yayin.com.tr:5932/;"
+			},
+			{
+				"name": "RADYO SARAY",
+				"url": "http://wsonic.tepehosting.com:9960/;"
+			},
+			{
+				"name": "RADYO SEKK",
+				"url": "https://radyo1.radyo-dinle.tc:7003/;"
+			},
+			{
+				"name": "RADYO SEMBOL",
+				"url": "https://anadolu.liderhost.com.tr:10941/;"
+			},
+			{
+				"name": "RADYO SENAM",
+				"url": "http://yayin2.canliyayin.org:7070/;"
+			},
+			{
+				"name": "RADYO SES",
+				"url": "http://31.6.86.17:8005/;"
+			},
+			{
+				"name": "RADYO SES",
+				"url": "https://vofile.ru/turkey/radyo_ses_92-7_dinle/icecast.audio"
+			},
+			{
+				"name": "RADYO SES Eskisehir",
+				"url": "http://live2.radyotvonline.com:8095/;"
+			},
+			{
+				"name": "RADYO SES Eskisehir",
+				"url": "https://radio-streaming.net/turkey/radyo-ses-eskisehir/icecast.audio"
+			},
+			{
+				"name": "RADYO SES Eskisehir",
+				"url": "https://radio-streaming.net/turkey/radyo-ses-eskisehir/playlist.m3u8"
+			},
+			{
+				"name": "RADYO SEVIMLI",
+				"url": "http://yayin2.canliyayin.org:7887/;"
+			},
+			{
+				"name": "RADYO SEYHAN",
+				"url": "http://yayin2.yayindakiler.com:4000/stream"
+			},
+			{
+				"name": "RADYO SEYHAN",
+				"url": "https://radio-streaming.net/turkey/radyo-seyhan-adana/icecast.audio"
+			},
+			{
+				"name": "RADYO SEYHAN",
+				"url": "https://radio-streaming.net/turkey/radyo-seyhan-adana/playlist.m3u8"
+			},
+			{
+				"name": "RADYO SEYMEN",
+				"url": "http://yayin.radyoseymen.com.tr:1070/;stream.mp3"
+			},
+			{
+				"name": "RADYO SINERJI",
+				"url": "http://162.254.207.45:9994/;"
+			},
+			{
+				"name": "RADYO SINERJI",
+				"url": "https://radio-streaming.net/turkey/radyo-sinerji-99-0/icecast.audio"
+			},
+			{
+				"name": "RADYO SINERJI",
+				"url": "https://radio-streaming.net/turkey/radyo-sinerji-99-0/playlist.m3u8"
+			},
+			{
+				"name": "RADYO SiS",
+				"url": "http://185.83.145.228:8000/;"
+			},
+			{
+				"name": "RADYO SLAYT",
+				"url": "https://anadolu.liderhost.com.tr:10925/;"
+			},
+			{
+				"name": "RADYO SOFT",
+				"url": "https://trkvz-radyolar.ercdn.net/radyosoft/playlist.m3u8"
+			},
+			{
+				"name": "RADYO SPACE",
+				"url": "https://anadolu.liderhost.com.tr:10914/;"
+			},
+			{
+				"name": "RADYO SPOR",
+				"url": "http://46.20.7.103:8040/;"
+			},
+			{
+				"name": "RADYO SPOR",
+				"url": "https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "RADYO SANLI",
+				"url": "https://radyo1.radyo-dinle.tc:7020/;"
+			},
+			{
+				"name": "RADYO SEKER",
+				"url": "http://sunucu2.radyosfer.com:9330/;"
+			},
+			{
+				"name": "RADYO SIRIN",
+				"url": "http://live4.radyotvonline.com:9570/;"
+			},
+			{
+				"name": "RADYO SIRIN",
+				"url": "http://yayin.radyosirin.com:9570/;"
+			},
+			{
+				"name": "RADYO TATLISES",
+				"url": ""
+			},
+			{
+				"name": "RADYO TATLISES",
+				"url": ""
+			},
+			{
+				"name": "RADYO TAVERNA",
+				"url": "http://94.102.2.199:9710/;"
+			},
+			{
+				"name": "RADYO TEK Erzincan",
+				"url": "http://yayin2.yayindakiler.com:4202/;"
+			},
+			{
+				"name": "RADYO TI",
+				"url": "https://anadolu.liderhost.com.tr:10968/;"
+			},
+			{
+				"name": "RADYO TI",
+				"url": "http://37.59.205.232:8040/;"
+			},
+			{
+				"name": "RADYO TRAFIK Ankara",
+				"url": "http://37.247.100.118/stream/462/"
+			},
+			{
+				"name": "RADYO TRAFIK ISTANBUL",
+				"url": "http://37.247.100.118/stream/157/"
+			},
+			{
+				"name": "RADYO TRAFIK MARMARA",
+				"url": "http://37.247.100.118/stream/68/"
+			},
+			{
+				"name": "RADYO TRAFIK",
+				"url": "https://ssl4.radyotvonline.com/radyohome/radyotrafikhome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "RADYO TURAN",
+				"url": "https://anadolu.liderhost.com.tr:10996/;"
+			},
+			{
+				"name": "RADYO TURKUVAZ",
+				"url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
+			},
+			{
+				"name": "RADYO TUTKU",
+				"url": "http://sunucu.radyodinle.com:4999/;"
+			},
+			{
+				"name": "RADYO TURK HAREKETI",
+				"url": "http://radyo.yayin.com.tr:6056/stream"
+			},
+			{
+				"name": "RADYO TURKU",
+				"url": "http://RadioTurku.Com:9400"
+			},
+			{
+				"name": "RADYO TURKUEVI",
+				"url": "http://95.0.173.195:9000/turku"
+			},
+			{
+				"name": "RADYO TURKIYEM Tokat",
+				"url": "http://yayin.turkiletisim.com.tr:9207/;"
+			},
+			{
+				"name": "RADYO UMUT",
+				"url": "http://176.9.78.226:30001"
+			},
+			{
+				"name": "RADYO UMUT Rize",
+				"url": "http://karadenizumutradyo.com:8000/;"
+			},
+			{
+				"name": "RADYO ULKU",
+				"url": "http://radyo.yayin.com.tr:4006/;"
+			},
+			{
+				"name": "RADYO UNIVERSITE",
+				"url": "https://59cba4d34b678.streamlock.net/radyo/radyouniversite/playlist.m3u8"
+			},
+			{
+				"name": "RADYO VATAN Kibris",
+				"url": "http://95.0.173.195:9002/vatan"
+			},
+			{
+				"name": "RADYO VATAN NIHAVENT Kibris",
+				"url": "http://95.0.173.195:9001/nihavent"
+			},
+			{
+				"name": "RADYO VATAN TURKU Kibris",
+				"url": "http://95.0.173.195:9000/turku"
+			},
+			{
+				"name": "RADYO VIVA",
+				"url": "http://46.20.3.231/;"
+			},
+			{
+				"name": "RADYO VIVA",
+				"url": "https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8"
+			},
+			{
+				"name": "RADYO VIVA",
+				"url": "https://ssl4.radyotvonline.com/radyohome/radyovivahome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "RADYO VIZYON",
+				"url": "http://yayin.netradyom.com:9300/;"
+			},
+			{
+				"name": "RADYO VIZYON ANKARA",
+				"url": "http://yayin.netradyom.com:9304/;"
+			},
+			{
+				"name": "RADYO VIZYON BEBEK",
+				"url": "http://yayin.netradyom.com:9314/;"
+			},
+			{
+				"name": "RADYO VIZYON DANCE",
+				"url": "http://yayin.netradyom.com:9302/;"
+			},
+			{
+				"name": "RADYO VIZYON HALK",
+				"url": "http://yayin.netradyom.com:9312/;"
+			},
+			{
+				"name": "RADYO VIZYON KLASIK",
+				"url": "http://yayin.netradyom.com:9318/;"
+			},
+			{
+				"name": "RADYO VIZYON LOUNGE",
+				"url": "http://yayin.netradyom.com:9308/;"
+			},
+			{
+				"name": "RADYO VIZYON NOSTALJI",
+				"url": "http://yayin.netradyom.com:9316/;"
+			},
+			{
+				"name": "RADYO VIZYON ROCK",
+				"url": "http://yayin.netradyom.com:9306/;"
+			},
+			{
+				"name": "RADYO VIZYON SEK",
+				"url": "http://yayin.netradyom.com:9310/;"
+			},
+			{
+				"name": "RADYO VOKAL",
+				"url": "http://37.247.98.8/stream/35/"
+			},
+			{
+				"name": "RADYO VOKAL",
+				"url": "https://moondigitalmaster.radyotvonline.net/radyovokal/playlist.m3u8"
+			},
+			{
+				"name": "RADYO VOYAGE",
+				"url": "http://voyagewmp.radyotvonline.com/;"
+			},
+			{
+				"name": "RADYO VOYAGE",
+				"url": "https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8"
+			},
+			{
+				"name": "RADYO YAKAMOZ",
+				"url": "http://live4.radyotvonline.com:6570/;"
+			},
+			{
+				"name": "RADYO YAKAMOZ",
+				"url": "https://vofile.ru/turkey/radyo_yakamoz_dinle/icecast.audio"
+			},
+			{
+				"name": "RADYO YAKAMOZ",
+				"url": "https://vofile.ru/turkey/radyo_yakamoz_dinle/playlist.m3u8"
+			},
+			{
+				"name": "RADYO YANSIMA",
+				"url": "http://95.173.162.181:9912/;"
+			},
+			{
+				"name": "RADYO YAREN",
+				"url": "http://radyoyaren.radyotvyayini.com:8042/;"
+			},
+			{
+				"name": "RADYO YESIL MAVI RIZE",
+				"url": "http://radyoyesilmavi.kesintisizyayin.com:9810/;"
+			},
+			{
+				"name": "RADYO YUKSEL",
+				"url": "http://yayin.canliyayin.org:8232/;"
+			},
+			{
+				"name": "RAP HOME",
+				"url": "https://moondigitalmaster.radyotvonline.net/raphome/playlist.m3u8"
+			},
+			{
+				"name": "REKLAMSIZ RADYO",
+				"url": "http://netradyon.online:9862/stream"
+			},
+			{
+				"name": "RELAX HOME",
+				"url": "https://moondigitalmaster.radyotvonline.net/relaxhome/playlist.m3u8"
+			},
+			{
+				"name": "RENK FM",
+				"url": "http://dinle.renk-fm.com:7062/;"
+			},
+			{
+				"name": "RETRO TURK",
+				"url": "https://17733.live.streamtheworld.com/RETROTURK128AAC.aac"
+			},
+			{
+				"name": "RIBAT FM",
+				"url": "http://yayin1.canliyayin.org:7010/;"
+			},
+			{
+				"name": "RISALE RADYO",
+				"url": "https://radyo1.radyo-dinle.tc:7016/;"
+			},
+			{
+				"name": "RIZE TURK",
+				"url": "http://kalite.radyoyayini.com:8036/;"
+			},
+			{
+				"name": "RIZE TURK",
+				"url": "https://sslyayin.radyoyayini.com:7064/;"
+			},
+			{
+				"name": "ROCK FM",
+				"url": "http://rockfm.rockfm.com.tr:9450"
+			},
+			{
+				"name": "ROCKLAND",
+				"url": "http://46.20.4.34/radyoland/rockland.stream/playlist.m3u8"
+			},
+			{
+				"name": "ROCKLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8"
+			},
+			{
+				"name": "ROMANTIK ADAM FM",
+				"url": "https://radyo1.radyo-dinle.tc:7008/;"
+			},
+			{
+				"name": "ROMANTIK TURK",
+				"url": "http://radyo.yayin.com.tr:6042/;"
+			},
+			{
+				"name": "RS FM",
+				"url": "https://sndria.gcdn.co/voicestm"
+			},
+			{
+				"name": "SAKARYA RADYO NET",
+				"url": "https://ssl-radyo.yayin.com.tr:9990/;"
+			},
+			{
+				"name": "SAMSUN TUTKU FM",
+				"url": "http://yayin2.yayindakiler.com:4038/;"
+			},
+			{
+				"name": "SANART FM",
+				"url": "https://anadolu.liderhost.com.tr:10915/;"
+			},
+			{
+				"name": "SARI TRAMVAY",
+				"url": "http://46.20.4.34/radyoland/saritramvay.stream/playlist.m3u8"
+			},
+			{
+				"name": "SARI TRAMVAY",
+				"url": "https://moondigitaledge.radyotvonline.net/saritramvay/playlist.m3u8"
+			},
+			{
+				"name": "SEMERKAND RADYO",
+				"url": "https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8"
+			},
+			{
+				"name": "SERHAT FM",
+				"url": "http://sunucu2.radyolarburada.com:9150/;"
+			},
+			{
+				"name": "SESLI MOBIL FM",
+				"url": "https://anadolu.liderhost.com.tr:10985/;"
+			},
+			{
+				"name": "SEYR FM",
+				"url": "https://sslyayin.netyayin.net/8024/stream"
+			},
+			{
+				"name": "SEZA FM",
+				"url": "https://anadolu.liderhost.com.tr:10940/;"
+			},
+			{
+				"name": "SEZEN RADYO",
+				"url": "https://radyo1.radyo-dinle.tc:7018/;"
+			},
+			{
+				"name": "SHOW RADYO",
+				"url": "http://46.20.3.229/;"
+			},
+			{
+				"name": "SHOW RADYO",
+				"url": "https://moondigitalmaster.radyotvonline.net/show/playlist.m3u8"
+			},
+			{
+				"name": "SHOW RADYO",
+				"url": "https://moondigitaledge.radyotvonline.net/show/playlist.m3u8"
+			},
+			{
+				"name": "SHOW RADYO",
+				"url": "https://ssl4.radyotvonline.com/radyohome/showradyohome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "SILA FM",
+				"url": "http://95.173.188.154:9910/;"
+			},
+			{
+				"name": "SINOP GOZDE FM",
+				"url": "http://yayin1.yayindakiler.com:3096/;"
+			},
+			{
+				"name": "SIVAS FM",
+				"url": "http://yayin2.canliyayin.org:8180/;"
+			},
+			{
+				"name": "SIVAS FM",
+				"url": "https://vofile.ru/turkey/sivas_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "SIZ FM",
+				"url": "https://player.gen.tr/listen/fe098f6c3958f5db9e4afef14f3fb609"
+			},
+			{
+				"name": "SLOW HOME",
+				"url": "https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8"
+			},
+			{
+				"name": "SLOW KARADENIZ FM",
+				"url": "https://ssl162.ozelip.com/asistan/stream/fd02a93f231cba7593e027682f8fcad5"
+			},
+			{
+				"name": "SLOW KARADENIZ FM",
+				"url": "http://dinle.slowkaradenizfm.com:9578/;"
+			},
+			{
+				"name": "SLOW RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10973/;"
+			},
+			{
+				"name": "SLOW RADYO",
+				"url": "http://yayindaslowradyo.net:5050/;"
+			},
+			{
+				"name": "SLOW TIME",
+				"url": "http://46.20.7.103:8030/;"
+			},
+			{
+				"name": "SLOW TIME",
+				"url": "https://ssl4.radyotvonline.com/radyohome/slowtimehome.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "SLOW TIME",
+				"url": "https://moondigitalmaster.radyotvonline.net/slowtime/playlist.m3u8"
+			},
+			{
+				"name": "SLOW TIME",
+				"url": "https://vofile.ru/turkey/Slow_Time/icecast.audio"
+			},
+			{
+				"name": "SLOW TIME",
+				"url": "https://vofile.ru/turkey/Slow_Time/playlist.m3u8"
+			},
+			{
+				"name": "SLOWTURK",
+				"url": "https://radyo.duhnet.tv/slowturk"
+			},
+			{
+				"name": "SOLMAZ FM",
+				"url": "http://ip16.radyotelekom.com:9994/;"
+			},
+			{
+				"name": "SOMA FM",
+				"url": "http://95.173.188.166:9302/;"
+			},
+			{
+				"name": "SOMA FM",
+				"url": "https://vofile.ru/turkey/radyo_soma_fm_dinle/icecast.audio"
+			},
+			{
+				"name": "SRT FM",
+				"url": "http://94.102.5.183:9902/;"
+			},
+			{
+				"name": "STAR ARTI FM",
+				"url": "https://vofile.ru/turkey/star_arti_dinle/icecast.audio"
+			},
+			{
+				"name": "STAR ARTI FM",
+				"url": "http://yayin.morkarinca.com:8282/;"
+			},
+			{
+				"name": "SUN RADYO",
+				"url": "https://tr.socialsmart.tv/sunradyo/bant1/icecast.audio"
+			},
+			{
+				"name": "SUNN FM",
+				"url": "https://anadolu.liderhost.com.tr:10881/;"
+			},
+			{
+				"name": "SUPER FM",
+				"url": "https://17733.live.streamtheworld.com/SUPER_FM.mp3"
+			},
+			{
+				"name": "SUPER FM 2",
+				"url": "https://17703.live.streamtheworld.com/SUPER2.mp3"
+			},
+			{
+				"name": "SAFAK RADYO Gaziantep",
+				"url": "http://yayin2.canliyayin.org:7070/;"
+			},
+			{
+				"name": "SAFAK RADYO ILAHI",
+				"url": "http://yayin.netyayin.net:7200/;"
+			},
+			{
+				"name": "SAFAK RADYO Kayseri",
+				"url": "http://safakradyo.com:2626/;"
+			},
+			{
+				"name": "SANLIURFA RADYO MEDYA",
+				"url": "http://yayin.yayindakiler.com:4016/;stream.mp3"
+			},
+			{
+				"name": "SEMDINLI FM",
+				"url": "https://anadolu.liderhost.com.tr:10948/;"
+			},
+			{
+				"name": "TAKA FM",
+				"url": "http://dj.msteknoloji.com:8586/;stream.nsv"
+			},
+			{
+				"name": "TAKSIM FM",
+				"url": "http://cast1.taksim.fm:8000/;"
+			},
+			{
+				"name": "TAKSIM FM",
+				"url": "http://95.211.162.32:8000/;"
+			},
+			{
+				"name": "TAKSIM FM ARABESK",
+				"url": "http://cast1.taksim.fm:8008/;"
+			},
+			{
+				"name": "TAKSIM FM ARABIC",
+				"url": "http://cast1.taksim.fm:8006/;"
+			},
+			{
+				"name": "TAKSIM FM CLUB MIX",
+				"url": "http://cast1.taksim.fm:8016/;"
+			},
+			{
+				"name": "TAKSIM FM OYUN HAVASI",
+				"url": "http://cast1.taksim.fm:8012/;"
+			},
+			{
+				"name": "TAKSIM FM POP",
+				"url": "http://cast1.taksim.fm:8014/;"
+			},
+			{
+				"name": "TAKSIM FM RAP",
+				"url": "http://cast1.taksim.fm:8018/;"
+			},
+			{
+				"name": "TAKSIM FM ROCK",
+				"url": "http://cast1.taksim.fm:8010/;"
+			},
+			{
+				"name": "TAKSIM FM SLOW",
+				"url": "http://cast1.taksim.fm:8002/;"
+			},
+			{
+				"name": "TARZ RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10895/;"
+			},
+			{
+				"name": "TATVAN RADYO 13",
+				"url": "http://yayin1.yayindakiler.com:3050/;"
+			},
+			{
+				"name": "TEKIRDAG RADYO CAN",
+				"url": "http://yayin2.yayindakiler.com:4174/;"
+			},
+			{
+				"name": "TEKIRDAG RADYO HABER",
+				"url": "http://yayin2.yayindakiler.com:4118/;"
+			},
+			{
+				"name": "TEKIRDAG RADYO PEKER",
+				"url": "http://yayin.turkhosted.com:6052/;"
+			},
+			{
+				"name": "TEKIRDAG YILDIZ FM",
+				"url": "http://radyo.yayin.com.tr:5940/stream"
+			},
+			{
+				"name": "TEST RADYO",
+				"url": "http://radyo.yayin.com.tr:5910/;"
+			},
+			{
+				"name": "TEZENE",
+				"url": "https://moondigitaledge.radyotvonline.net/tezene/playlist.m3u8"
+			},
+			{
+				"name": "TGRT FM",
+				"url": "https://5e6ab1e5b06a6.streamlock.net/tgrtfm_live/tgrtfm_yuksek/playlist.m3u8"
+			},
+			{
+				"name": "THE ROCK RADIO",
+				"url": "https://moondigitalmaster.radyotvonline.net/therockradio/playlist.m3u8"
+			},
+			{
+				"name": "TIYATRO RADYOSU",
+				"url": "https://anadolu.liderhost.com.tr:10885/;"
+			},
+			{
+				"name": "TOKAT OZLEM FM",
+				"url": "http://yayin.turkiletisim.com.tr:1080/;"
+			},
+			{
+				"name": "TOROS FM",
+				"url": "https://streaming2.hostingmontevideo.com:7016/;"
+			},
+			{
+				"name": "TOSYA CIHAN FM",
+				"url": "http://radyo.yayin.com.tr:5942/;"
+			},
+			{
+				"name": "TOURISM FM",
+				"url": "https://ssl-radyo.yayin.com.tr:5990/;"
+			},
+			{
+				"name": "TRABZON KUZEY RADYO",
+				"url": "http://yayin1.yayindakiler.com:3028/;"
+			},
+			{
+				"name": "TRABZON RADYO",
+				"url": "http://yayin3.canlitv.com:5040/;"
+			},
+			{
+				"name": "TRAKYA FM",
+				"url": "http://trakyafm.canliyayinda.com:9039/;"
+			},
+			{
+				"name": "TRD 1",
+				"url": "https://live.streamlojik.com:8000/trd1.aac"
+			},
+			{
+				"name": "TRD 1 EKSTRA",
+				"url": "https://live.streamlojik.com:8000/trd1x.aac"
+			},
+			{
+				"name": "TRD 2 ALTIN",
+				"url": "https://live.streamlojik.com:8000/trd2.aac"
+			},
+			{
+				"name": "TRD 3 SANAT",
+				"url": "https://live.streamlojik.com:8000/trd3.aac"
+			},
+			{
+				"name": "TRD 4 HALK",
+				"url": "https://live.streamlojik.com:8000/trd4.aac"
+			},
+			{
+				"name": "TRT ANTALYA",
+				"url": "https://radio-trtantalya.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT CUKUROVA",
+				"url": "https://radio-trtcukurova.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT ERZURUM",
+				"url": "https://radio-trterzurum.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT FM",
+				"url": "https://radio-trtfm.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT FM",
+				"url": "https://ssl4.radyotvonline.com/radyohome/trtfm.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "TRT GAP DIYARBAKIR",
+				"url": "https://radio-trtgap.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT MEMLEKETIM FM",
+				"url": "https://radio-trtmemleketimfm.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT NAGME",
+				"url": "https://radio-trtnagme.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT NAGME",
+				"url": "https://ssl4.radyotvonline.com/radyohome/trtnagme.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "TRT RADYO 1",
+				"url": "https://radio-trtradyo1.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT RADYO 1",
+				"url": "https://ssl4.radyotvonline.com/radyohome/trtradyo1.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "TRT RADYO 3",
+				"url": "https://radio-trtradyo3.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT RADYO 3",
+				"url": "https://ssl4.radyotvonline.com/radyohome/trtradyo3.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "TRT RADYO 6",
+				"url": "https://radio-trtradyo6.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT RADYO HABER",
+				"url": "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT TRABZON",
+				"url": "https://radio-trttrabzon.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT TURKIYE'NIN SESI",
+				"url": "https://radio-trttsr.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT TURKU",
+				"url": "https://radio-trtturku.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT TURKU",
+				"url": "https://ssl4.radyotvonline.com/radyohome/trtturku.stream_aac/playlist.m3u8"
+			},
+			{
+				"name": "TRT VOICE OF TURKEY EAST",
+				"url": "https://radio-trtvoteast.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT VOICE OF TURKEY WEST",
+				"url": "https://radio-trtvotwest.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TRT VOICE OF TURKEY WORLD",
+				"url": "https://radio-trtvotworld.live.trt.com.tr/master.m3u8"
+			},
+			{
+				"name": "TULU RADYO FM",
+				"url": "http://yayin2.canliyayin.org:8248/;"
+			},
+			{
+				"name": "TUNCELI BARIS FM",
+				"url": "http://sunucu.radyodinle.com:8510/;"
+			},
+			{
+				"name": "TUNCELI RADYO MUNZUR",
+				"url": "http://yayin1.yayindakiler.com:3002/live"
+			},
+			{
+				"name": "TURKUAZ FM",
+				"url": "http://onair.turkuazfm.be:1078/;"
+			},
+			{
+				"name": "TURKUAZ OTO DJ",
+				"url": "https://anadolu.liderhost.com.tr:10918/;"
+			},
+			{
+				"name": "TURKCE REMIX",
+				"url": "http://95.173.162.187:7688/stream"
+			},
+			{
+				"name": "TURKLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/turkland/playlist.m3u8"
+			},
+			{
+				"name": "TURKLAND",
+				"url": "http://46.20.4.34/radyoland/turkland.stream/playlist.m3u8"
+			},
+			{
+				"name": "TURKUVAZ ANADOLU",
+				"url": "https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8"
+			},
+			{
+				"name": "TURKUVAZ EFSANE",
+				"url": "https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8"
+			},
+			{
+				"name": "TURKUVAZ MUSIKI",
+				"url": "https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8"
+			},
+			{
+				"name": "TURKUVAZ NOSTALJI",
+				"url": "https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8"
+			},
+			{
+				"name": "TURKUVAZ ROMANTIK",
+				"url": "https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8"
+			},
+			{
+				"name": "TUTKU FM Samsun",
+				"url": "http://yayin2.yayindakiler.com:4038/;"
+			},
+			{
+				"name": "TUTKU FM Van",
+				"url": "http://sunucu.radyodinle.com:4999/;"
+			},
+			{
+				"name": "TUTKU FM Van",
+				"url": "https://radio-streaming.net/turkey/tutku-fm-98-0/icecast.audio"
+			},
+			{
+				"name": "TUTKU FM Van",
+				"url": "https://radio-streaming.net/turkey/tutku-fm-98-0/playlist.m3u8"
+			},
+			{
+				"name": "TURK SANAT MUZIGI FM",
+				"url": "http://TsmFm.Com:9100"
+			},
+			{
+				"name": "TURKCENIN SESI RADYOSU",
+				"url": "http://46.101.114.204:8000/;"
+			},
+			{
+				"name": "TURKIYE POLIS RADYOSU",
+				"url": "https://m.egm.gov.tr:8093/;"
+			},
+			{
+				"name": "TURKIYE POLIS RADYOSU TSM",
+				"url": "https://m.egm.gov.tr:8095/;"
+			},
+			{
+				"name": "TURKIYEM FM",
+				"url": "http://server3.streamserver24.com:23764/;"
+			},
+			{
+				"name": "TURKLAND",
+				"url": "http://46.20.4.34/radyoland/turkland.stream/playlist.m3u8"
+			},
+			{
+				"name": "TURKU FM",
+				"url": "http://dinle.arabeskradyo.biz:7446/;"
+			},
+			{
+				"name": "TURKU RADYO",
+				"url": "http://radyo.turkuradyo.net:4591/;"
+			},
+			{
+				"name": "TURKULERLE TURKIYE",
+				"url": "https://moondigitalmaster.radyotvonline.net/turkulerleturkiye/playlist.m3u8"
+			},
+			{
+				"name": "ULUSAL RADYO",
+				"url": "http://162.254.207.45:9302/;"
+			},
+			{
+				"name": "UMUT FM",
+				"url": "http://yayin1.canliyayin.org:8888/;"
+			},
+			{
+				"name": "ULKU FM",
+				"url": "http://yayin.yayindakiler.com:4112/;stream.mp3"
+			},
+			{
+				"name": "UNYE MELODI FM",
+				"url": "http://yayin.melodifm.net/melodifm"
+			},
+			{
+				"name": "URGUP FM",
+				"url": "http://31.192.215.204:9956/;"
+			},
+			{
+				"name": "VAN FM",
+				"url": "http://yayin2.yayindakiler.com:4040/;"
+			},
+			{
+				"name": "VAV RADYO",
+				"url": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8"
+			},
+			{
+				"name": "VIRGIN RADIO",
+				"url": "https://17773.live.streamtheworld.com/VIRGIN_RADIO.mp3"
+			},
+			{
+				"name": "VITAMIN FM Rize",
+				"url": "http://dinle.vitaminfm.com:8004/;"
+			},
+			{
+				"name": "VUSLAT RADYO",
+				"url": "http://yayin1.canliyayin.org:8282/;stream.nsv"
+			},
+			{
+				"name": "WORLD HITS",
+				"url": "https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8"
+			},
+			{
+				"name": "YAKAMOZ FM",
+				"url": "https://ozelip.com/listen/e85379e88ca1247cdc27c46158c9faf7"
+			},
+			{
+				"name": "YANKI FM Bolu",
+				"url": "http://159.253.39.179:9918/;"
+			},
+			{
+				"name": "YANSUN FM Rize",
+				"url": "http://dinle.yansunfm.com:5353/;"
+			},
+			{
+				"name": "YANSUN FM Rize",
+				"url": "https://ssl190.ozelip.com/asistan/stream/460533be96b9a29dde5ea142455585e3"
+			},
+			{
+				"name": "YENIKOY FM",
+				"url": "https://anadolu.liderhost.com.tr:10924/;"
+			},
+			{
+				"name": "YILDIZ FM",
+				"url": "http://radyo.yayin.com.tr:5940/;"
+			},
+			{
+				"name": "YOL ARKADASIM",
+				"url": "https://17703.live.streamtheworld.com/EVENT3128AAC.aac"
+			},
+			{
+				"name": "YOZ DUYGUSAL FM",
+				"url": "http://95.173.188.155:9596/;"
+			},
+			{
+				"name": "YOZGAT SURMELI FM",
+				"url": "http://surmelifm.kesintisizyayin.com:8590/;"
+			},
+			{
+				"name": "YON RADYO",
+				"url": "http://yonradyo.radyolarburada.com:8020/;stream/1"
+			},
+			{
+				"name": "YORUK FM",
+				"url": "http://stream.taksimbilisim.com:8024/;"
+			},
+			{
+				"name": "YORUK FM",
+				"url": "https://radio-streaming.net/turkey/yoruk-fm-mersin/icecast.audio"
+			},
+			{
+				"name": "YORUK FM",
+				"url": "https://radio-streaming.net/turkey/yoruk-fm-mersin/playlist.m3u8"
+			},
+			{
+				"name": "YUNUS FM",
+				"url": "http://95.173.162.184:7350/;"
+			},
+			{
+				"name": "ZARA FM",
+				"url": "http://sunucu.radyodinle.com:8150/;"
+			},
+			{
+				"name": "ZEN CHOPPER",
+				"url": "https://anadolu.liderhost.com.tr:10877/;"
+			},
+			{
+				"name": "ZEN NOSTALJI",
+				"url": "https://anadolu.liderhost.com.tr:10879/;"
+			},
+			{
+				"name": "ZEN NOSTALJI",
+				"url": "http://37.59.205.232:7794/;"
+			},
+			{
+				"name": "ZEN RADYO",
+				"url": "https://anadolu.liderhost.com.tr:10880/;"
+			},
+			{
+				"name": "ZEN RADYO",
+				"url": "http://37.59.205.232:7798/;"
+			},
+			{
+				"name": "ZEN YABANCI",
+				"url": "https://anadolu.liderhost.com.tr:10878/;"
+			},
+			{
+				"name": "ZEN YABANCI",
+				"url": "http://37.59.205.232:7796/;"
+			},
+			{
+				"name": "ZENLAND",
+				"url": "http://46.20.4.34/radyoland/zenland.stream/playlist.m3u8"
+			},
+			{
+				"name": "ZENLAND",
+				"url": "https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8"
+			},
+			{
+				"name": "ZIRVE RADYO",
+				"url": "http://radyozirve.canliyayinda.com/;"
+			}
+		]
+	}
+]
